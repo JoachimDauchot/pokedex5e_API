@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Version = pokedex5e_API.Resources.Data.Version;
 
 namespace pokedex5e_API.Controllers
 {
@@ -9,7 +10,7 @@ namespace pokedex5e_API.Controllers
     {
         [HttpGet] public async Task<string> Get()
         {
-            return "1.0.0";
+            return Version.Number;
         }
     }
 }
