@@ -1,4 +1,6 @@
-﻿namespace pokedex5e_API.Data.Dtos;
+﻿using System.Text.Json.Serialization;
+
+namespace pokedex5e_API.Data.Dtos;
 
 public class PokemonSummaryDTO
 {
