@@ -1,0 +1,6932 @@
+[
+    {
+        "Types": [
+            "Grass",
+            "Poison"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Bulbasaur",
+        "Index": 1
+    },
+    {
+        "Types": [
+            "Grass",
+            "Poison"
+        ],
+        "SpeciesRating": 5,
+        "Name": "Ivysaur",
+        "Index": 2
+    },
+    {
+        "Types": [
+            "Grass",
+            "Poison"
+        ],
+        "SpeciesRating": 13,
+        "Name": "Venusaur",
+        "Index": 3
+    },
+    {
+        "Types": [
+            "Fire"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Charmander",
+        "Index": 4
+    },
+    {
+        "Types": [
+            "Fire"
+        ],
+        "SpeciesRating": 5,
+        "Name": "Charmeleon",
+        "Index": 5
+    },
+    {
+        "Types": [
+            "Fire",
+            "Flying"
+        ],
+        "SpeciesRating": 13,
+        "Name": "Charizard",
+        "Index": 6
+    },
+    {
+        "Types": [
+            "Water"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Squirtle",
+        "Index": 7
+    },
+    {
+        "Types": [
+            "Water"
+        ],
+        "SpeciesRating": 5,
+        "Name": "Wartortle",
+        "Index": 8
+    },
+    {
+        "Types": [
+            "Water"
+        ],
+        "SpeciesRating": 13,
+        "Name": "Blastoise",
+        "Index": 9
+    },
+    {
+        "Types": [
+            "Bug"
+        ],
+        "SpeciesRating": 0.125,
+        "Name": "Caterpie",
+        "Index": 10
+    },
+    {
+        "Types": [
+            "Bug"
+        ],
+        "SpeciesRating": 1,
+        "Name": "Metapod",
+        "Index": 11
+    },
+    {
+        "Types": [
+            "Bug",
+            "Flying"
+        ],
+        "SpeciesRating": 6,
+        "Name": "Butterfree",
+        "Index": 12
+    },
+    {
+        "Types": [
+            "Bug",
+            "Poison"
+        ],
+        "SpeciesRating": 0.125,
+        "Name": "Weedle",
+        "Index": 13
+    },
+    {
+        "Types": [
+            "Bug",
+            "Poison"
+        ],
+        "SpeciesRating": 1,
+        "Name": "Kakuna",
+        "Index": 14
+    },
+    {
+        "Types": [
+            "Bug",
+            "Poison"
+        ],
+        "SpeciesRating": 6,
+        "Name": "Beedrill",
+        "Index": 15
+    },
+    {
+        "Types": [
+            "Normal",
+            "Flying"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Pidgey",
+        "Index": 16
+    },
+    {
+        "Types": [
+            "Normal",
+            "Flying"
+        ],
+        "SpeciesRating": 3,
+        "Name": "Pidgeotto",
+        "Index": 17
+    },
+    {
+        "Types": [
+            "Normal",
+            "Flying"
+        ],
+        "SpeciesRating": 10,
+        "Name": "Pidgeot",
+        "Index": 18
+    },
+    {
+        "Types": [
+            "Normal"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Rattata",
+        "Index": 19
+    },
+    {
+        "Types": [
+            "Normal"
+        ],
+        "SpeciesRating": 5,
+        "Name": "Raticate",
+        "Index": 20
+    },
+    {
+        "Types": [
+            "Normal",
+            "Flying"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Spearow",
+        "Index": 21
+    },
+    {
+        "Types": [
+            "Normal",
+            "Flying"
+        ],
+        "SpeciesRating": 5,
+        "Name": "Fearow",
+        "Index": 22
+    },
+    {
+        "Types": [
+            "Poison"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Ekans",
+        "Index": 23
+    },
+    {
+        "Types": [
+            "Poison"
+        ],
+        "SpeciesRating": 6,
+        "Name": "Arbok",
+        "Index": 24
+    },
+    {
+        "Types": [
+            "Electric"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Pikachu",
+        "Index": 25
+    },
+    {
+        "Types": [
+            "Electric"
+        ],
+        "SpeciesRating": 7,
+        "Name": "Raichu",
+        "Index": 26
+    },
+    {
+        "Types": [
+            "Ground"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Sandshrew",
+        "Index": 27
+    },
+    {
+        "Types": [
+            "Ground"
+        ],
+        "SpeciesRating": 7,
+        "Name": "Sandslash",
+        "Index": 28
+    },
+    {
+        "Types": [
+            "Poison"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Nidoran \u2640",
+        "Index": 29
+    },
+    {
+        "Types": [
+            "Poison"
+        ],
+        "SpeciesRating": 4,
+        "Name": "Nidorina",
+        "Index": 30
+    },
+    {
+        "Types": [
+            "Poison",
+            "Ground"
+        ],
+        "SpeciesRating": 13,
+        "Name": "Nidoqueen",
+        "Index": 31
+    },
+    {
+        "Types": [
+            "Poison"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Nidoran \u2642",
+        "Index": 32
+    },
+    {
+        "Types": [
+            "Poison"
+        ],
+        "SpeciesRating": 4,
+        "Name": "Nidorino",
+        "Index": 33
+    },
+    {
+        "Types": [
+            "Poison",
+            "Ground"
+        ],
+        "SpeciesRating": 13,
+        "Name": "Nidoking",
+        "Index": 34
+    },
+    {
+        "Types": [
+            "Fairy"
+        ],
+        "SpeciesRating": 1,
+        "Name": "Clefairy",
+        "Index": 35
+    },
+    {
+        "Types": [
+            "Fairy"
+        ],
+        "SpeciesRating": 8,
+        "Name": "Clefable",
+        "Index": 36
+    },
+    {
+        "Types": [
+            "Fire"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Vulpix",
+        "Index": 37
+    },
+    {
+        "Types": [
+            "Fire"
+        ],
+        "SpeciesRating": 7,
+        "Name": "Ninetales",
+        "Index": 38
+    },
+    {
+        "Types": [
+            "Normal",
+            "Fairy"
+        ],
+        "SpeciesRating": 1,
+        "Name": "Jigglypuff",
+        "Index": 39
+    },
+    {
+        "Types": [
+            "Normal",
+            "Fairy"
+        ],
+        "SpeciesRating": 6,
+        "Name": "Wigglytuff",
+        "Index": 40
+    },
+    {
+        "Types": [
+            "Poison",
+            "Flying"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Zubat",
+        "Index": 41
+    },
+    {
+        "Types": [
+            "Poison",
+            "Flying"
+        ],
+        "SpeciesRating": 7,
+        "Name": "Golbat",
+        "Index": 42
+    },
+    {
+        "Types": [
+            "Grass",
+            "Poison"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Oddish",
+        "Index": 43
+    },
+    {
+        "Types": [
+            "Grass",
+            "Poison"
+        ],
+        "SpeciesRating": 5,
+        "Name": "Gloom",
+        "Index": 44
+    },
+    {
+        "Types": [
+            "Grass",
+            "Poison"
+        ],
+        "SpeciesRating": 13,
+        "Name": "Vileplume",
+        "Index": 45
+    },
+    {
+        "Types": [
+            "Bug",
+            "Grass"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Paras",
+        "Index": 46
+    },
+    {
+        "Types": [
+            "Bug",
+            "Grass"
+        ],
+        "SpeciesRating": 7,
+        "Name": "Parasect",
+        "Index": 47
+    },
+    {
+        "Types": [
+            "Bug",
+            "Poison"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Venonat",
+        "Index": 48
+    },
+    {
+        "Types": [
+            "Bug",
+            "Poison"
+        ],
+        "SpeciesRating": 8,
+        "Name": "Venomoth",
+        "Index": 49
+    },
+    {
+        "Types": [
+            "Ground"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Diglett",
+        "Index": 50
+    },
+    {
+        "Types": [
+            "Ground"
+        ],
+        "SpeciesRating": 8,
+        "Name": "Dugtrio",
+        "Index": 51
+    },
+    {
+        "Types": [
+            "Normal"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Meowth",
+        "Index": 52
+    },
+    {
+        "Types": [
+            "Normal"
+        ],
+        "SpeciesRating": 7,
+        "Name": "Persian",
+        "Index": 53
+    },
+    {
+        "Types": [
+            "Water"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Psyduck",
+        "Index": 54
+    },
+    {
+        "Types": [
+            "Water"
+        ],
+        "SpeciesRating": 10,
+        "Name": "Golduck",
+        "Index": 55
+    },
+    {
+        "Types": [
+            "Fighting"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Mankey",
+        "Index": 56
+    },
+    {
+        "Types": [
+            "Fighting"
+        ],
+        "SpeciesRating": 6,
+        "Name": "Primeape",
+        "Index": 57
+    },
+    {
+        "Types": [
+            "Fire"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Growlithe",
+        "Index": 58
+    },
+    {
+        "Types": [
+            "Fire"
+        ],
+        "SpeciesRating": 11,
+        "Name": "Arcanine",
+        "Index": 59
+    },
+    {
+        "Types": [
+            "Water"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Poliwag",
+        "Index": 60
+    },
+    {
+        "Types": [
+            "Water"
+        ],
+        "SpeciesRating": 3,
+        "Name": "Poliwhirl",
+        "Index": 61
+    },
+    {
+        "Types": [
+            "Water",
+            "Fighting"
+        ],
+        "SpeciesRating": 12,
+        "Name": "Poliwrath",
+        "Index": 62
+    },
+    {
+        "Types": [
+            "Psychic"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Abra",
+        "Index": 63
+    },
+    {
+        "Types": [
+            "Psychic"
+        ],
+        "SpeciesRating": 6,
+        "Name": "Kadabra",
+        "Index": 64
+    },
+    {
+        "Types": [
+            "Psychic"
+        ],
+        "SpeciesRating": 12,
+        "Name": "Alakazam",
+        "Index": 65
+    },
+    {
+        "Types": [
+            "Fighting"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Machop",
+        "Index": 66
+    },
+    {
+        "Types": [
+            "Fighting"
+        ],
+        "SpeciesRating": 5,
+        "Name": "Machoke",
+        "Index": 67
+    },
+    {
+        "Types": [
+            "Fighting"
+        ],
+        "SpeciesRating": 12,
+        "Name": "Machamp",
+        "Index": 68
+    },
+    {
+        "Types": [
+            "Grass",
+            "Poison"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Bellsprout",
+        "Index": 69
+    },
+    {
+        "Types": [
+            "Grass",
+            "Poison"
+        ],
+        "SpeciesRating": 5,
+        "Name": "Weepinbell",
+        "Index": 70
+    },
+    {
+        "Types": [
+            "Grass",
+            "Poison"
+        ],
+        "SpeciesRating": 12,
+        "Name": "Victreebel",
+        "Index": 71
+    },
+    {
+        "Types": [
+            "Water",
+            "Poison"
+        ],
+        "SpeciesRating": 2,
+        "Name": "Tentacool",
+        "Index": 72
+    },
+    {
+        "Types": [
+            "Water",
+            "Poison"
+        ],
+        "SpeciesRating": 8,
+        "Name": "Tentacruel",
+        "Index": 73
+    },
+    {
+        "Types": [
+            "Rock",
+            "Ground"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Geodude",
+        "Index": 74
+    },
+    {
+        "Types": [
+            "Rock",
+            "Ground"
+        ],
+        "SpeciesRating": 6,
+        "Name": "Graveler",
+        "Index": 75
+    },
+    {
+        "Types": [
+            "Rock",
+            "Ground"
+        ],
+        "SpeciesRating": 13,
+        "Name": "Golem",
+        "Index": 76
+    },
+    {
+        "Types": [
+            "Fire"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Ponyta",
+        "Index": 77
+    },
+    {
+        "Types": [
+            "Fire"
+        ],
+        "SpeciesRating": 11,
+        "Name": "Rapidash",
+        "Index": 78
+    },
+    {
+        "Types": [
+            "Water",
+            "Psychic"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Slowpoke",
+        "Index": 79
+    },
+    {
+        "Types": [
+            "Water",
+            "Psychic"
+        ],
+        "SpeciesRating": 11,
+        "Name": "Slowbro",
+        "Index": 80
+    },
+    {
+        "Types": [
+            "Electric",
+            "Steel"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Magnemite",
+        "Index": 81
+    },
+    {
+        "Types": [
+            "Electric",
+            "Steel"
+        ],
+        "SpeciesRating": 8,
+        "Name": "Magneton",
+        "Index": 82
+    },
+    {
+        "Types": [
+            "Normal",
+            "Flying"
+        ],
+        "SpeciesRating": 3,
+        "Name": "Farfetch\u0027d",
+        "Index": 83
+    },
+    {
+        "Types": [
+            "Normal",
+            "Flying"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Doduo",
+        "Index": 84
+    },
+    {
+        "Types": [
+            "Normal",
+            "Flying"
+        ],
+        "SpeciesRating": 9,
+        "Name": "Dodrio",
+        "Index": 85
+    },
+    {
+        "Types": [
+            "Water"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Seel",
+        "Index": 86
+    },
+    {
+        "Types": [
+            "Water",
+            "Ice"
+        ],
+        "SpeciesRating": 10,
+        "Name": "Dewgong",
+        "Index": 87
+    },
+    {
+        "Types": [
+            "Poison"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Grimer",
+        "Index": 88
+    },
+    {
+        "Types": [
+            "Poison"
+        ],
+        "SpeciesRating": 10,
+        "Name": "Muk",
+        "Index": 89
+    },
+    {
+        "Types": [
+            "Water"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Shellder",
+        "Index": 90
+    },
+    {
+        "Types": [
+            "Water",
+            "Ice"
+        ],
+        "SpeciesRating": 8,
+        "Name": "Cloyster",
+        "Index": 91
+    },
+    {
+        "Types": [
+            "Ghost",
+            "Poison"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Gastly",
+        "Index": 92
+    },
+    {
+        "Types": [
+            "Ghost",
+            "Poison"
+        ],
+        "SpeciesRating": 5,
+        "Name": "Haunter",
+        "Index": 93
+    },
+    {
+        "Types": [
+            "Ghost",
+            "Poison"
+        ],
+        "SpeciesRating": 12,
+        "Name": "Gengar",
+        "Index": 94
+    },
+    {
+        "Types": [
+            "Rock",
+            "Ground"
+        ],
+        "SpeciesRating": 10,
+        "Name": "Onix",
+        "Index": 95
+    },
+    {
+        "Types": [
+            "Psychic"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Drowzee",
+        "Index": 96
+    },
+    {
+        "Types": [
+            "Psychic"
+        ],
+        "SpeciesRating": 8,
+        "Name": "Hypno",
+        "Index": 97
+    },
+    {
+        "Types": [
+            "Water"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Krabby",
+        "Index": 98
+    },
+    {
+        "Types": [
+            "Water"
+        ],
+        "SpeciesRating": 8,
+        "Name": "Kingler",
+        "Index": 99
+    },
+    {
+        "Types": [
+            "Electric"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Voltorb",
+        "Index": 100
+    },
+    {
+        "Types": [
+            "Electric"
+        ],
+        "SpeciesRating": 8,
+        "Name": "Electrode",
+        "Index": 101
+    },
+    {
+        "Types": [
+            "Grass",
+            "Psychic"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Exeggcute",
+        "Index": 102
+    },
+    {
+        "Types": [
+            "Grass",
+            "Psychic"
+        ],
+        "SpeciesRating": 8,
+        "Name": "Exeggutor",
+        "Index": 103
+    },
+    {
+        "Types": [
+            "Ground"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Cubone",
+        "Index": 104
+    },
+    {
+        "Types": [
+            "Ground"
+        ],
+        "SpeciesRating": 7,
+        "Name": "Marowak",
+        "Index": 105
+    },
+    {
+        "Types": [
+            "Fighting"
+        ],
+        "SpeciesRating": 6,
+        "Name": "Hitmonlee",
+        "Index": 106
+    },
+    {
+        "Types": [
+            "Fighting"
+        ],
+        "SpeciesRating": 6,
+        "Name": "Hitmonchan",
+        "Index": 107
+    },
+    {
+        "Types": [
+            "Normal"
+        ],
+        "SpeciesRating": 7,
+        "Name": "Lickitung",
+        "Index": 108
+    },
+    {
+        "Types": [
+            "Poison"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Koffing",
+        "Index": 109
+    },
+    {
+        "Types": [
+            "Poison"
+        ],
+        "SpeciesRating": 10,
+        "Name": "Weezing",
+        "Index": 110
+    },
+    {
+        "Types": [
+            "Ground",
+            "Rock"
+        ],
+        "SpeciesRating": 3,
+        "Name": "Rhyhorn",
+        "Index": 111
+    },
+    {
+        "Types": [
+            "Ground",
+            "Rock"
+        ],
+        "SpeciesRating": 11,
+        "Name": "Rhydon",
+        "Index": 112
+    },
+    {
+        "Types": [
+            "Normal"
+        ],
+        "SpeciesRating": 7,
+        "Name": "Chansey",
+        "Index": 113
+    },
+    {
+        "Types": [
+            "Grass"
+        ],
+        "SpeciesRating": 5,
+        "Name": "Tangela",
+        "Index": 114
+    },
+    {
+        "Types": [
+            "Normal"
+        ],
+        "SpeciesRating": 10,
+        "Name": "Kangaskhan",
+        "Index": 115
+    },
+    {
+        "Types": [
+            "Water"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Horsea",
+        "Index": 116
+    },
+    {
+        "Types": [
+            "Water"
+        ],
+        "SpeciesRating": 8,
+        "Name": "Seadra",
+        "Index": 117
+    },
+    {
+        "Types": [
+            "Water"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Goldeen",
+        "Index": 118
+    },
+    {
+        "Types": [
+            "Water"
+        ],
+        "SpeciesRating": 9,
+        "Name": "Seaking",
+        "Index": 119
+    },
+    {
+        "Types": [
+            "Water"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Staryu",
+        "Index": 120
+    },
+    {
+        "Types": [
+            "Water",
+            "Psychic"
+        ],
+        "SpeciesRating": 9,
+        "Name": "Starmie",
+        "Index": 121
+    },
+    {
+        "Types": [
+            "Psychic",
+            "Fairy"
+        ],
+        "SpeciesRating": 9,
+        "Name": "Mr. Mime",
+        "Index": 122
+    },
+    {
+        "Types": [
+            "Bug",
+            "Flying"
+        ],
+        "SpeciesRating": 8,
+        "Name": "Scyther",
+        "Index": 123
+    },
+    {
+        "Types": [
+            "Ice",
+            "Psychic"
+        ],
+        "SpeciesRating": 8,
+        "Name": "Jynx",
+        "Index": 124
+    },
+    {
+        "Types": [
+            "Electric"
+        ],
+        "SpeciesRating": 9,
+        "Name": "Electabuzz",
+        "Index": 125
+    },
+    {
+        "Types": [
+            "Fire"
+        ],
+        "SpeciesRating": 9,
+        "Name": "Magmar",
+        "Index": 126
+    },
+    {
+        "Types": [
+            "Bug"
+        ],
+        "SpeciesRating": 9,
+        "Name": "Pinsir",
+        "Index": 127
+    },
+    {
+        "Types": [
+            "Normal"
+        ],
+        "SpeciesRating": 10,
+        "Name": "Tauros",
+        "Index": 128
+    },
+    {
+        "Types": [
+            "Water"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Magikarp",
+        "Index": 129
+    },
+    {
+        "Types": [
+            "Water",
+            "Flying"
+        ],
+        "SpeciesRating": 10,
+        "Name": "Gyarados",
+        "Index": 130
+    },
+    {
+        "Types": [
+            "Water",
+            "Ice"
+        ],
+        "SpeciesRating": 10,
+        "Name": "Lapras",
+        "Index": 131
+    },
+    {
+        "Types": [
+            "Normal"
+        ],
+        "SpeciesRating": 3,
+        "Name": "Ditto",
+        "Index": 132
+    },
+    {
+        "Types": [
+            "Normal"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Eevee",
+        "Index": 133
+    },
+    {
+        "Types": [
+            "Water"
+        ],
+        "SpeciesRating": 8,
+        "Name": "Vaporeon",
+        "Index": 134
+    },
+    {
+        "Types": [
+            "Electric"
+        ],
+        "SpeciesRating": 8,
+        "Name": "Jolteon",
+        "Index": 135
+    },
+    {
+        "Types": [
+            "Fire"
+        ],
+        "SpeciesRating": 8,
+        "Name": "Flareon",
+        "Index": 136
+    },
+    {
+        "Types": [
+            "Normal"
+        ],
+        "SpeciesRating": 6,
+        "Name": "Porygon",
+        "Index": 137
+    },
+    {
+        "Types": [
+            "Rock",
+            "Water"
+        ],
+        "SpeciesRating": 2,
+        "Name": "Omanyte",
+        "Index": 138
+    },
+    {
+        "Types": [
+            "Rock",
+            "Water"
+        ],
+        "SpeciesRating": 11,
+        "Name": "Omastar",
+        "Index": 139
+    },
+    {
+        "Types": [
+            "Rock",
+            "Water"
+        ],
+        "SpeciesRating": 2,
+        "Name": "Kabuto",
+        "Index": 140
+    },
+    {
+        "Types": [
+            "Rock",
+            "Water"
+        ],
+        "SpeciesRating": 11,
+        "Name": "Kabutops",
+        "Index": 141
+    },
+    {
+        "Types": [
+            "Rock",
+            "Flying"
+        ],
+        "SpeciesRating": 13,
+        "Name": "Aerodactyl",
+        "Index": 142
+    },
+    {
+        "Types": [
+            "Normal"
+        ],
+        "SpeciesRating": 14,
+        "Name": "Snorlax",
+        "Index": 143
+    },
+    {
+        "Types": [
+            "Ice",
+            "Flying"
+        ],
+        "SpeciesRating": 15,
+        "Name": "Articuno",
+        "Index": 144
+    },
+    {
+        "Types": [
+            "Electric",
+            "Flying"
+        ],
+        "SpeciesRating": 15,
+        "Name": "Zapdos",
+        "Index": 145
+    },
+    {
+        "Types": [
+            "Fire",
+            "Flying"
+        ],
+        "SpeciesRating": 15,
+        "Name": "Moltres",
+        "Index": 146
+    },
+    {
+        "Types": [
+            "Dragon"
+        ],
+        "SpeciesRating": 1,
+        "Name": "Dratini",
+        "Index": 147
+    },
+    {
+        "Types": [
+            "Dragon"
+        ],
+        "SpeciesRating": 6,
+        "Name": "Dragonair",
+        "Index": 148
+    },
+    {
+        "Types": [
+            "Dragon",
+            "Flying"
+        ],
+        "SpeciesRating": 14,
+        "Name": "Dragonite",
+        "Index": 149
+    },
+    {
+        "Types": [
+            "Psychic"
+        ],
+        "SpeciesRating": 15,
+        "Name": "Mewtwo",
+        "Index": 150
+    },
+    {
+        "Types": [
+            "Psychic"
+        ],
+        "SpeciesRating": 15,
+        "Name": "Mew",
+        "Index": 151
+    },
+    {
+        "Types": [
+            "Grass"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Chikorita",
+        "Index": 152
+    },
+    {
+        "Types": [
+            "Grass"
+        ],
+        "SpeciesRating": 5,
+        "Name": "Bayleef",
+        "Index": 153
+    },
+    {
+        "Types": [
+            "Grass"
+        ],
+        "SpeciesRating": 13,
+        "Name": "Meganium",
+        "Index": 154
+    },
+    {
+        "Types": [
+            "Fire"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Cyndaquil",
+        "Index": 155
+    },
+    {
+        "Types": [
+            "Fire"
+        ],
+        "SpeciesRating": 5,
+        "Name": "Quilava",
+        "Index": 156
+    },
+    {
+        "Types": [
+            "Fire"
+        ],
+        "SpeciesRating": 13,
+        "Name": "Typhlosion",
+        "Index": 157
+    },
+    {
+        "Types": [
+            "Water"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Totodile",
+        "Index": 158
+    },
+    {
+        "Types": [
+            "Water"
+        ],
+        "SpeciesRating": 5,
+        "Name": "Croconaw",
+        "Index": 159
+    },
+    {
+        "Types": [
+            "Water"
+        ],
+        "SpeciesRating": 13,
+        "Name": "Feraligatr",
+        "Index": 160
+    },
+    {
+        "Types": [
+            "Normal"
+        ],
+        "SpeciesRating": 0.125,
+        "Name": "Sentret",
+        "Index": 161
+    },
+    {
+        "Types": [
+            "Normal"
+        ],
+        "SpeciesRating": 5,
+        "Name": "Furret",
+        "Index": 162
+    },
+    {
+        "Types": [
+            "Normal",
+            "Flying"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Hoothoot",
+        "Index": 163
+    },
+    {
+        "Types": [
+            "Normal",
+            "Flying"
+        ],
+        "SpeciesRating": 6,
+        "Name": "Noctowl",
+        "Index": 164
+    },
+    {
+        "Types": [
+            "Bug",
+            "Flying"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Ledyba",
+        "Index": 165
+    },
+    {
+        "Types": [
+            "Bug",
+            "Flying"
+        ],
+        "SpeciesRating": 8,
+        "Name": "Ledian",
+        "Index": 166
+    },
+    {
+        "Types": [
+            "Bug",
+            "Poison"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Spinarak",
+        "Index": 167
+    },
+    {
+        "Types": [
+            "Bug",
+            "Poison"
+        ],
+        "SpeciesRating": 5,
+        "Name": "Ariados",
+        "Index": 168
+    },
+    {
+        "Types": [
+            "Poison",
+            "Flying"
+        ],
+        "SpeciesRating": 13,
+        "Name": "Crobat",
+        "Index": 169
+    },
+    {
+        "Types": [
+            "Water",
+            "Electric"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Chinchou",
+        "Index": 170
+    },
+    {
+        "Types": [
+            "Water",
+            "Electric"
+        ],
+        "SpeciesRating": 6,
+        "Name": "Lanturn",
+        "Index": 171
+    },
+    {
+        "Types": [
+            "Electric"
+        ],
+        "SpeciesRating": 0.125,
+        "Name": "Pichu",
+        "Index": 172
+    },
+    {
+        "Types": [
+            "Fairy"
+        ],
+        "SpeciesRating": 0.125,
+        "Name": "Cleffa",
+        "Index": 173
+    },
+    {
+        "Types": [
+            "Normal",
+            "Fairy"
+        ],
+        "SpeciesRating": 0.125,
+        "Name": "Igglybuff",
+        "Index": 174
+    },
+    {
+        "Types": [
+            "Fairy"
+        ],
+        "SpeciesRating": 1,
+        "Name": "Togepi",
+        "Index": 175
+    },
+    {
+        "Types": [
+            "Fairy",
+            "Flying"
+        ],
+        "SpeciesRating": 8,
+        "Name": "Togetic",
+        "Index": 176
+    },
+    {
+        "Types": [
+            "Psychic",
+            "Flying"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Natu",
+        "Index": 177
+    },
+    {
+        "Types": [
+            "Psychic",
+            "Flying"
+        ],
+        "SpeciesRating": 7,
+        "Name": "Xatu",
+        "Index": 178
+    },
+    {
+        "Types": [
+            "Electric"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Mareep",
+        "Index": 179
+    },
+    {
+        "Types": [
+            "Electric"
+        ],
+        "SpeciesRating": 4,
+        "Name": "Flaaffy",
+        "Index": 180
+    },
+    {
+        "Types": [
+            "Electric"
+        ],
+        "SpeciesRating": 12,
+        "Name": "Ampharos",
+        "Index": 181
+    },
+    {
+        "Types": [
+            "Grass"
+        ],
+        "SpeciesRating": 13,
+        "Name": "Bellossom",
+        "Index": 182
+    },
+    {
+        "Types": [
+            "Water",
+            "Fairy"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Marill",
+        "Index": 183
+    },
+    {
+        "Types": [
+            "Water",
+            "Fairy"
+        ],
+        "SpeciesRating": 6,
+        "Name": "Azumarill",
+        "Index": 184
+    },
+    {
+        "Types": [
+            "Rock"
+        ],
+        "SpeciesRating": 6,
+        "Name": "Sudowoodo",
+        "Index": 185
+    },
+    {
+        "Types": [
+            "Water"
+        ],
+        "SpeciesRating": 12,
+        "Name": "Politoed",
+        "Index": 186
+    },
+    {
+        "Types": [
+            "Grass",
+            "Flying"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Hoppip",
+        "Index": 187
+    },
+    {
+        "Types": [
+            "Grass",
+            "Flying"
+        ],
+        "SpeciesRating": 6,
+        "Name": "Skiploom",
+        "Index": 188
+    },
+    {
+        "Types": [
+            "Grass",
+            "Flying"
+        ],
+        "SpeciesRating": 13,
+        "Name": "Jumpluff",
+        "Index": 189
+    },
+    {
+        "Types": [
+            "Normal"
+        ],
+        "SpeciesRating": 3,
+        "Name": "Aipom",
+        "Index": 190
+    },
+    {
+        "Types": [
+            "Grass"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Sunkern",
+        "Index": 191
+    },
+    {
+        "Types": [
+            "Grass"
+        ],
+        "SpeciesRating": 7,
+        "Name": "Sunflora",
+        "Index": 192
+    },
+    {
+        "Types": [
+            "Bug",
+            "Flying"
+        ],
+        "SpeciesRating": 5,
+        "Name": "Yanma",
+        "Index": 193
+    },
+    {
+        "Types": [
+            "Water",
+            "Ground"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Wooper",
+        "Index": 194
+    },
+    {
+        "Types": [
+            "Water",
+            "Ground"
+        ],
+        "SpeciesRating": 6,
+        "Name": "Quagsire",
+        "Index": 195
+    },
+    {
+        "Types": [
+            "Psychic"
+        ],
+        "SpeciesRating": 8,
+        "Name": "Espeon",
+        "Index": 196
+    },
+    {
+        "Types": [
+            "Dark"
+        ],
+        "SpeciesRating": 8,
+        "Name": "Umbreon",
+        "Index": 197
+    },
+    {
+        "Types": [
+            "Dark",
+            "Flying"
+        ],
+        "SpeciesRating": 2,
+        "Name": "Murkrow",
+        "Index": 198
+    },
+    {
+        "Types": [
+            "Water",
+            "Psychic"
+        ],
+        "SpeciesRating": 11,
+        "Name": "Slowking",
+        "Index": 199
+    },
+    {
+        "Types": [
+            "Ghost"
+        ],
+        "SpeciesRating": 7,
+        "Name": "Misdreavus",
+        "Index": 200
+    },
+    {
+        "Types": [
+            "Psychic"
+        ],
+        "SpeciesRating": 1,
+        "Name": "Unown",
+        "Index": 201
+    },
+    {
+        "Types": [
+            "Psychic"
+        ],
+        "SpeciesRating": 6,
+        "Name": "Wobbuffet",
+        "Index": 202
+    },
+    {
+        "Types": [
+            "Normal",
+            "Psychic"
+        ],
+        "SpeciesRating": 6,
+        "Name": "Girafarig",
+        "Index": 203
+    },
+    {
+        "Types": [
+            "Bug"
+        ],
+        "SpeciesRating": 1,
+        "Name": "Pineco",
+        "Index": 204
+    },
+    {
+        "Types": [
+            "Bug",
+            "Steel"
+        ],
+        "SpeciesRating": 12,
+        "Name": "Forretress",
+        "Index": 205
+    },
+    {
+        "Types": [
+            "Normal"
+        ],
+        "SpeciesRating": 2,
+        "Name": "Dunsparce",
+        "Index": 206
+    },
+    {
+        "Types": [
+            "Ground",
+            "Flying"
+        ],
+        "SpeciesRating": 3,
+        "Name": "Gligar",
+        "Index": 207
+    },
+    {
+        "Types": [
+            "Steel",
+            "Ground"
+        ],
+        "SpeciesRating": 14,
+        "Name": "Steelix",
+        "Index": 208
+    },
+    {
+        "Types": [
+            "Fairy"
+        ],
+        "SpeciesRating": 1,
+        "Name": "Snubbull",
+        "Index": 209
+    },
+    {
+        "Types": [
+            "Fairy"
+        ],
+        "SpeciesRating": 5,
+        "Name": "Granbull",
+        "Index": 210
+    },
+    {
+        "Types": [
+            "Water",
+            "Poison"
+        ],
+        "SpeciesRating": 5,
+        "Name": "Qwilfish",
+        "Index": 211
+    },
+    {
+        "Types": [
+            "Bug",
+            "Steel"
+        ],
+        "SpeciesRating": 14,
+        "Name": "Scizor",
+        "Index": 212
+    },
+    {
+        "Types": [
+            "Bug",
+            "Rock"
+        ],
+        "SpeciesRating": 4,
+        "Name": "Shuckle",
+        "Index": 213
+    },
+    {
+        "Types": [
+            "Bug",
+            "Fighting"
+        ],
+        "SpeciesRating": 9,
+        "Name": "Heracross",
+        "Index": 214
+    },
+    {
+        "Types": [
+            "Dark",
+            "Ice"
+        ],
+        "SpeciesRating": 4,
+        "Name": "Sneasel",
+        "Index": 215
+    },
+    {
+        "Types": [
+            "Normal"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Teddiursa",
+        "Index": 216
+    },
+    {
+        "Types": [
+            "Normal"
+        ],
+        "SpeciesRating": 6,
+        "Name": "Ursaring",
+        "Index": 217
+    },
+    {
+        "Types": [
+            "Fire"
+        ],
+        "SpeciesRating": 0.125,
+        "Name": "Slugma",
+        "Index": 218
+    },
+    {
+        "Types": [
+            "Fire",
+            "Rock"
+        ],
+        "SpeciesRating": 10,
+        "Name": "Magcargo",
+        "Index": 219
+    },
+    {
+        "Types": [
+            "Ice",
+            "Ground"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Swinub",
+        "Index": 220
+    },
+    {
+        "Types": [
+            "Ice",
+            "Ground"
+        ],
+        "SpeciesRating": 8,
+        "Name": "Piloswine",
+        "Index": 221
+    },
+    {
+        "Types": [
+            "Water",
+            "Rock"
+        ],
+        "SpeciesRating": 3,
+        "Name": "Corsola",
+        "Index": 222
+    },
+    {
+        "Types": [
+            "Water"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Remoraid",
+        "Index": 223
+    },
+    {
+        "Types": [
+            "Water"
+        ],
+        "SpeciesRating": 6,
+        "Name": "Octillery",
+        "Index": 224
+    },
+    {
+        "Types": [
+            "Ice",
+            "Flying"
+        ],
+        "SpeciesRating": 1,
+        "Name": "Delibird",
+        "Index": 225
+    },
+    {
+        "Types": [
+            "Water",
+            "Flying"
+        ],
+        "SpeciesRating": 11,
+        "Name": "Mantine",
+        "Index": 226
+    },
+    {
+        "Types": [
+            "Steel",
+            "Flying"
+        ],
+        "SpeciesRating": 10,
+        "Name": "Skarmory",
+        "Index": 227
+    },
+    {
+        "Types": [
+            "Dark",
+            "Fire"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Houndour",
+        "Index": 228
+    },
+    {
+        "Types": [
+            "Dark",
+            "Fire"
+        ],
+        "SpeciesRating": 8,
+        "Name": "Houndoom",
+        "Index": 229
+    },
+    {
+        "Types": [
+            "Water",
+            "Dragon"
+        ],
+        "SpeciesRating": 12,
+        "Name": "Kingdra",
+        "Index": 230
+    },
+    {
+        "Types": [
+            "Ground"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Phanpy",
+        "Index": 231
+    },
+    {
+        "Types": [
+            "Ground"
+        ],
+        "SpeciesRating": 7,
+        "Name": "Donphan",
+        "Index": 232
+    },
+    {
+        "Types": [
+            "Normal"
+        ],
+        "SpeciesRating": 12,
+        "Name": "Porygon2",
+        "Index": 233
+    },
+    {
+        "Types": [
+            "Normal"
+        ],
+        "SpeciesRating": 5,
+        "Name": "Stantler",
+        "Index": 234
+    },
+    {
+        "Types": [
+            "Normal"
+        ],
+        "SpeciesRating": 1,
+        "Name": "Smeargle",
+        "Index": 235
+    },
+    {
+        "Types": [
+            "Fighting"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Tyrogue",
+        "Index": 236
+    },
+    {
+        "Types": [
+            "Fighting"
+        ],
+        "SpeciesRating": 6,
+        "Name": "Hitmontop",
+        "Index": 237
+    },
+    {
+        "Types": [
+            "Ice",
+            "Psychic"
+        ],
+        "SpeciesRating": 2,
+        "Name": "Smoochum",
+        "Index": 238
+    },
+    {
+        "Types": [
+            "Electric"
+        ],
+        "SpeciesRating": 2,
+        "Name": "Elekid",
+        "Index": 239
+    },
+    {
+        "Types": [
+            "Fire"
+        ],
+        "SpeciesRating": 2,
+        "Name": "Magby",
+        "Index": 240
+    },
+    {
+        "Types": [
+            "Normal"
+        ],
+        "SpeciesRating": 10,
+        "Name": "Miltank",
+        "Index": 241
+    },
+    {
+        "Types": [
+            "Normal"
+        ],
+        "SpeciesRating": 14,
+        "Name": "Blissey",
+        "Index": 242
+    },
+    {
+        "Types": [
+            "Electric"
+        ],
+        "SpeciesRating": 15,
+        "Name": "Raikou",
+        "Index": 243
+    },
+    {
+        "Types": [
+            "Fire"
+        ],
+        "SpeciesRating": 15,
+        "Name": "Entei",
+        "Index": 244
+    },
+    {
+        "Types": [
+            "Water"
+        ],
+        "SpeciesRating": 15,
+        "Name": "Suicune",
+        "Index": 245
+    },
+    {
+        "Types": [
+            "Rock",
+            "Ground"
+        ],
+        "SpeciesRating": 1,
+        "Name": "Larvitar",
+        "Index": 246
+    },
+    {
+        "Types": [
+            "Rock",
+            "Ground"
+        ],
+        "SpeciesRating": 7,
+        "Name": "Pupitar",
+        "Index": 247
+    },
+    {
+        "Types": [
+            "Rock",
+            "Dark"
+        ],
+        "SpeciesRating": 14,
+        "Name": "Tyranitar",
+        "Index": 248
+    },
+    {
+        "Types": [
+            "Psychic",
+            "Flying"
+        ],
+        "SpeciesRating": 15,
+        "Name": "Lugia",
+        "Index": 249
+    },
+    {
+        "Types": [
+            "Fire",
+            "Flying"
+        ],
+        "SpeciesRating": 15,
+        "Name": "Ho-oh",
+        "Index": 250
+    },
+    {
+        "Types": [
+            "Grass",
+            "Psychic"
+        ],
+        "SpeciesRating": 15,
+        "Name": "Celebi",
+        "Index": 251
+    },
+    {
+        "Types": [
+            "Grass"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Treecko",
+        "Index": 252
+    },
+    {
+        "Types": [
+            "Grass"
+        ],
+        "SpeciesRating": 5,
+        "Name": "Grovyle",
+        "Index": 253
+    },
+    {
+        "Types": [
+            "Grass"
+        ],
+        "SpeciesRating": 13,
+        "Name": "Sceptile",
+        "Index": 254
+    },
+    {
+        "Types": [
+            "Fire"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Torchic",
+        "Index": 255
+    },
+    {
+        "Types": [
+            "Fire",
+            "Fighting"
+        ],
+        "SpeciesRating": 5,
+        "Name": "Combusken",
+        "Index": 256
+    },
+    {
+        "Types": [
+            "Fire",
+            "Fighting"
+        ],
+        "SpeciesRating": 13,
+        "Name": "Blaziken",
+        "Index": 257
+    },
+    {
+        "Types": [
+            "Water"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Mudkip",
+        "Index": 258
+    },
+    {
+        "Types": [
+            "Water",
+            "Ground"
+        ],
+        "SpeciesRating": 5,
+        "Name": "Marshtomp",
+        "Index": 259
+    },
+    {
+        "Types": [
+            "Water",
+            "Ground"
+        ],
+        "SpeciesRating": 13,
+        "Name": "Swampert",
+        "Index": 260
+    },
+    {
+        "Types": [
+            "Dark"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Poochyena",
+        "Index": 261
+    },
+    {
+        "Types": [
+            "Dark"
+        ],
+        "SpeciesRating": 5,
+        "Name": "Mightyena",
+        "Index": 262
+    },
+    {
+        "Types": [
+            "Normal"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Zigzagoon",
+        "Index": 263
+    },
+    {
+        "Types": [
+            "Normal"
+        ],
+        "SpeciesRating": 7,
+        "Name": "Linoone",
+        "Index": 264
+    },
+    {
+        "Types": [
+            "Bug"
+        ],
+        "SpeciesRating": 0.125,
+        "Name": "Wurmple",
+        "Index": 265
+    },
+    {
+        "Types": [
+            "Bug"
+        ],
+        "SpeciesRating": 1,
+        "Name": "Silcoon",
+        "Index": 266
+    },
+    {
+        "Types": [
+            "Bug",
+            "Flying"
+        ],
+        "SpeciesRating": 6,
+        "Name": "Beautifly",
+        "Index": 267
+    },
+    {
+        "Types": [
+            "Bug"
+        ],
+        "SpeciesRating": 1,
+        "Name": "Cascoon",
+        "Index": 268
+    },
+    {
+        "Types": [
+            "Bug",
+            "Poison"
+        ],
+        "SpeciesRating": 7,
+        "Name": "Dustox",
+        "Index": 269
+    },
+    {
+        "Types": [
+            "Water",
+            "Grass"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Lotad",
+        "Index": 270
+    },
+    {
+        "Types": [
+            "Water",
+            "Grass"
+        ],
+        "SpeciesRating": 4,
+        "Name": "Lombre",
+        "Index": 271
+    },
+    {
+        "Types": [
+            "Water",
+            "Grass"
+        ],
+        "SpeciesRating": 10,
+        "Name": "Ludicolo",
+        "Index": 272
+    },
+    {
+        "Types": [
+            "Grass"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Seedot",
+        "Index": 273
+    },
+    {
+        "Types": [
+            "Grass",
+            "Dark"
+        ],
+        "SpeciesRating": 4,
+        "Name": "Nuzleaf",
+        "Index": 274
+    },
+    {
+        "Types": [
+            "Grass",
+            "Dark"
+        ],
+        "SpeciesRating": 9,
+        "Name": "Shiftry",
+        "Index": 275
+    },
+    {
+        "Types": [
+            "Normal",
+            "Flying"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Taillow",
+        "Index": 276
+    },
+    {
+        "Types": [
+            "Normal",
+            "Flying"
+        ],
+        "SpeciesRating": 6,
+        "Name": "Swellow",
+        "Index": 277
+    },
+    {
+        "Types": [
+            "Water",
+            "Flying"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Wingull",
+        "Index": 278
+    },
+    {
+        "Types": [
+            "Water",
+            "Flying"
+        ],
+        "SpeciesRating": 7,
+        "Name": "Pelipper",
+        "Index": 279
+    },
+    {
+        "Types": [
+            "Psychic",
+            "Fairy"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Ralts",
+        "Index": 280
+    },
+    {
+        "Types": [
+            "Psychic",
+            "Fairy"
+        ],
+        "SpeciesRating": 4,
+        "Name": "Kirlia",
+        "Index": 281
+    },
+    {
+        "Types": [
+            "Psychic",
+            "Fairy"
+        ],
+        "SpeciesRating": 13,
+        "Name": "Gardevoir",
+        "Index": 282
+    },
+    {
+        "Types": [
+            "Bug",
+            "Water"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Surskit",
+        "Index": 283
+    },
+    {
+        "Types": [
+            "Bug",
+            "Flying"
+        ],
+        "SpeciesRating": 7,
+        "Name": "Masquerain",
+        "Index": 284
+    },
+    {
+        "Types": [
+            "Grass"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Shroomish",
+        "Index": 285
+    },
+    {
+        "Types": [
+            "Grass",
+            "Fighting"
+        ],
+        "SpeciesRating": 7,
+        "Name": "Breloom",
+        "Index": 286
+    },
+    {
+        "Types": [
+            "Normal"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Slakoth",
+        "Index": 287
+    },
+    {
+        "Types": [
+            "Normal"
+        ],
+        "SpeciesRating": 6,
+        "Name": "Vigoroth",
+        "Index": 288
+    },
+    {
+        "Types": [
+            "Normal"
+        ],
+        "SpeciesRating": 13,
+        "Name": "Slaking",
+        "Index": 289
+    },
+    {
+        "Types": [
+            "Bug",
+            "Ground"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Nincada",
+        "Index": 290
+    },
+    {
+        "Types": [
+            "Bug",
+            "Flying"
+        ],
+        "SpeciesRating": 6,
+        "Name": "Ninjask",
+        "Index": 291
+    },
+    {
+        "Types": [
+            "Bug",
+            "Ghost"
+        ],
+        "SpeciesRating": 1,
+        "Name": "Shedinja",
+        "Index": 292
+    },
+    {
+        "Types": [
+            "Normal"
+        ],
+        "SpeciesRating": 0.125,
+        "Name": "Whismur",
+        "Index": 293
+    },
+    {
+        "Types": [
+            "Normal"
+        ],
+        "SpeciesRating": 5,
+        "Name": "Loudred",
+        "Index": 294
+    },
+    {
+        "Types": [
+            "Normal"
+        ],
+        "SpeciesRating": 11,
+        "Name": "Exploud",
+        "Index": 295
+    },
+    {
+        "Types": [
+            "Fighting"
+        ],
+        "SpeciesRating": 1,
+        "Name": "Makuhita",
+        "Index": 296
+    },
+    {
+        "Types": [
+            "Fighting"
+        ],
+        "SpeciesRating": 7,
+        "Name": "Hariyama",
+        "Index": 297
+    },
+    {
+        "Types": [
+            "Normal",
+            "Fairy"
+        ],
+        "SpeciesRating": 0.125,
+        "Name": "Azurill",
+        "Index": 298
+    },
+    {
+        "Types": [
+            "Rock"
+        ],
+        "SpeciesRating": 4,
+        "Name": "Nosepass",
+        "Index": 299
+    },
+    {
+        "Types": [
+            "Normal"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Skitty",
+        "Index": 300
+    },
+    {
+        "Types": [
+            "Normal"
+        ],
+        "SpeciesRating": 6,
+        "Name": "Delcatty",
+        "Index": 301
+    },
+    {
+        "Types": [
+            "Dark",
+            "Ghost"
+        ],
+        "SpeciesRating": 7,
+        "Name": "Sableye",
+        "Index": 302
+    },
+    {
+        "Types": [
+            "Steel",
+            "Fairy"
+        ],
+        "SpeciesRating": 7,
+        "Name": "Mawile",
+        "Index": 303
+    },
+    {
+        "Types": [
+            "Steel",
+            "Rock"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Aron",
+        "Index": 304
+    },
+    {
+        "Types": [
+            "Steel",
+            "Rock"
+        ],
+        "SpeciesRating": 8,
+        "Name": "Lairon",
+        "Index": 305
+    },
+    {
+        "Types": [
+            "Steel",
+            "Rock"
+        ],
+        "SpeciesRating": 14,
+        "Name": "Aggron",
+        "Index": 306
+    },
+    {
+        "Types": [
+            "Fighting",
+            "Psychic"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Meditite",
+        "Index": 307
+    },
+    {
+        "Types": [
+            "Fighting",
+            "Psychic"
+        ],
+        "SpeciesRating": 10,
+        "Name": "Medicham",
+        "Index": 308
+    },
+    {
+        "Types": [
+            "Electric"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Electrike",
+        "Index": 309
+    },
+    {
+        "Types": [
+            "Electric"
+        ],
+        "SpeciesRating": 9,
+        "Name": "Manectric",
+        "Index": 310
+    },
+    {
+        "Types": [
+            "Electric"
+        ],
+        "SpeciesRating": 6,
+        "Name": "Plusle",
+        "Index": 311
+    },
+    {
+        "Types": [
+            "Electric"
+        ],
+        "SpeciesRating": 6,
+        "Name": "Minun",
+        "Index": 312
+    },
+    {
+        "Types": [
+            "Bug"
+        ],
+        "SpeciesRating": 7,
+        "Name": "Volbeat",
+        "Index": 313
+    },
+    {
+        "Types": [
+            "Bug"
+        ],
+        "SpeciesRating": 7,
+        "Name": "Illumise",
+        "Index": 314
+    },
+    {
+        "Types": [
+            "Grass",
+            "Poison"
+        ],
+        "SpeciesRating": 5,
+        "Name": "Roselia",
+        "Index": 315
+    },
+    {
+        "Types": [
+            "Poison"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Gulpin",
+        "Index": 316
+    },
+    {
+        "Types": [
+            "Poison"
+        ],
+        "SpeciesRating": 10,
+        "Name": "Swalot",
+        "Index": 317
+    },
+    {
+        "Types": [
+            "Water",
+            "Dark"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Carvanha",
+        "Index": 318
+    },
+    {
+        "Types": [
+            "Water",
+            "Dark"
+        ],
+        "SpeciesRating": 10,
+        "Name": "Sharpedo",
+        "Index": 319
+    },
+    {
+        "Types": [
+            "Water"
+        ],
+        "SpeciesRating": 3,
+        "Name": "Wailmer",
+        "Index": 320
+    },
+    {
+        "Types": [
+            "Water"
+        ],
+        "SpeciesRating": 9,
+        "Name": "Wailord",
+        "Index": 321
+    },
+    {
+        "Types": [
+            "Fire",
+            "Ground"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Numel",
+        "Index": 322
+    },
+    {
+        "Types": [
+            "Fire",
+            "Ground"
+        ],
+        "SpeciesRating": 9,
+        "Name": "Camerupt",
+        "Index": 323
+    },
+    {
+        "Types": [
+            "Fire"
+        ],
+        "SpeciesRating": 8,
+        "Name": "Torkoal",
+        "Index": 324
+    },
+    {
+        "Types": [
+            "Psychic"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Spoink",
+        "Index": 325
+    },
+    {
+        "Types": [
+            "Psychic"
+        ],
+        "SpeciesRating": 11,
+        "Name": "Grumpig",
+        "Index": 326
+    },
+    {
+        "Types": [
+            "Normal"
+        ],
+        "SpeciesRating": 2,
+        "Name": "Spinda",
+        "Index": 327
+    },
+    {
+        "Types": [
+            "Ground"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Trapinch",
+        "Index": 328
+    },
+    {
+        "Types": [
+            "Ground",
+            "Dragon"
+        ],
+        "SpeciesRating": 7,
+        "Name": "Vibrava",
+        "Index": 329
+    },
+    {
+        "Types": [
+            "Ground",
+            "Dragon"
+        ],
+        "SpeciesRating": 14,
+        "Name": "Flygon",
+        "Index": 330
+    },
+    {
+        "Types": [
+            "Grass"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Cacnea",
+        "Index": 331
+    },
+    {
+        "Types": [
+            "Grass",
+            "Dark"
+        ],
+        "SpeciesRating": 8,
+        "Name": "Cacturne",
+        "Index": 332
+    },
+    {
+        "Types": [
+            "Normal",
+            "Flying"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Swablu",
+        "Index": 333
+    },
+    {
+        "Types": [
+            "Dragon",
+            "Flying"
+        ],
+        "SpeciesRating": 12,
+        "Name": "Altaria",
+        "Index": 334
+    },
+    {
+        "Types": [
+            "Normal"
+        ],
+        "SpeciesRating": 6,
+        "Name": "Zangoose",
+        "Index": 335
+    },
+    {
+        "Types": [
+            "Poison"
+        ],
+        "SpeciesRating": 5,
+        "Name": "Seviper",
+        "Index": 336
+    },
+    {
+        "Types": [
+            "Rock",
+            "Psychic"
+        ],
+        "SpeciesRating": 8,
+        "Name": "Lunatone",
+        "Index": 337
+    },
+    {
+        "Types": [
+            "Rock",
+            "Psychic"
+        ],
+        "SpeciesRating": 8,
+        "Name": "Solrock",
+        "Index": 338
+    },
+    {
+        "Types": [
+            "Water",
+            "Ground"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Barboach",
+        "Index": 339
+    },
+    {
+        "Types": [
+            "Water",
+            "Ground"
+        ],
+        "SpeciesRating": 6,
+        "Name": "Whiscash",
+        "Index": 340
+    },
+    {
+        "Types": [
+            "Water"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Corphish",
+        "Index": 341
+    },
+    {
+        "Types": [
+            "Water",
+            "Dark"
+        ],
+        "SpeciesRating": 5,
+        "Name": "Crawdaunt",
+        "Index": 342
+    },
+    {
+        "Types": [
+            "Ground",
+            "Psychic"
+        ],
+        "SpeciesRating": 1,
+        "Name": "Baltoy",
+        "Index": 343
+    },
+    {
+        "Types": [
+            "Ground",
+            "Psychic"
+        ],
+        "SpeciesRating": 11,
+        "Name": "Claydol",
+        "Index": 344
+    },
+    {
+        "Types": [
+            "Rock",
+            "Grass"
+        ],
+        "SpeciesRating": 2,
+        "Name": "Lileep",
+        "Index": 345
+    },
+    {
+        "Types": [
+            "Rock",
+            "Grass"
+        ],
+        "SpeciesRating": 11,
+        "Name": "Cradily",
+        "Index": 346
+    },
+    {
+        "Types": [
+            "Rock",
+            "Bug"
+        ],
+        "SpeciesRating": 2,
+        "Name": "Anorith",
+        "Index": 347
+    },
+    {
+        "Types": [
+            "Rock",
+            "Bug"
+        ],
+        "SpeciesRating": 10,
+        "Name": "Armaldo",
+        "Index": 348
+    },
+    {
+        "Types": [
+            "Water"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Feebas",
+        "Index": 349
+    },
+    {
+        "Types": [
+            "Water"
+        ],
+        "SpeciesRating": 10,
+        "Name": "Milotic",
+        "Index": 350
+    },
+    {
+        "Types": [
+            "Normal"
+        ],
+        "SpeciesRating": 5,
+        "Name": "Castform",
+        "Index": 351
+    },
+    {
+        "Types": [
+            "Normal"
+        ],
+        "SpeciesRating": 6,
+        "Name": "Kecleon",
+        "Index": 352
+    },
+    {
+        "Types": [
+            "Ghost"
+        ],
+        "SpeciesRating": 1,
+        "Name": "Shuppet",
+        "Index": 353
+    },
+    {
+        "Types": [
+            "Ghost"
+        ],
+        "SpeciesRating": 9,
+        "Name": "Banette",
+        "Index": 354
+    },
+    {
+        "Types": [
+            "Ghost"
+        ],
+        "SpeciesRating": 1,
+        "Name": "Duskull",
+        "Index": 355
+    },
+    {
+        "Types": [
+            "Ghost"
+        ],
+        "SpeciesRating": 12,
+        "Name": "Dusclops",
+        "Index": 356
+    },
+    {
+        "Types": [
+            "Grass",
+            "Flying"
+        ],
+        "SpeciesRating": 11,
+        "Name": "Tropius",
+        "Index": 357
+    },
+    {
+        "Types": [
+            "Psychic"
+        ],
+        "SpeciesRating": 11,
+        "Name": "Chimecho",
+        "Index": 358
+    },
+    {
+        "Types": [
+            "Dark"
+        ],
+        "SpeciesRating": 12,
+        "Name": "Absol",
+        "Index": 359
+    },
+    {
+        "Types": [
+            "Psychic"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Wynaut",
+        "Index": 360
+    },
+    {
+        "Types": [
+            "Ice"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Snorunt",
+        "Index": 361
+    },
+    {
+        "Types": [
+            "Ice"
+        ],
+        "SpeciesRating": 11,
+        "Name": "Glalie",
+        "Index": 362
+    },
+    {
+        "Types": [
+            "Ice",
+            "Water"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Spheal",
+        "Index": 363
+    },
+    {
+        "Types": [
+            "Ice",
+            "Water"
+        ],
+        "SpeciesRating": 9,
+        "Name": "Sealeo",
+        "Index": 364
+    },
+    {
+        "Types": [
+            "Ice",
+            "Water"
+        ],
+        "SpeciesRating": 14,
+        "Name": "Walrein",
+        "Index": 365
+    },
+    {
+        "Types": [
+            "Water"
+        ],
+        "SpeciesRating": 1,
+        "Name": "Clamperl",
+        "Index": 366
+    },
+    {
+        "Types": [
+            "Water"
+        ],
+        "SpeciesRating": 8,
+        "Name": "Huntail",
+        "Index": 367
+    },
+    {
+        "Types": [
+            "Water"
+        ],
+        "SpeciesRating": 8,
+        "Name": "Gorebyss",
+        "Index": 368
+    },
+    {
+        "Types": [
+            "Water",
+            "Rock"
+        ],
+        "SpeciesRating": 8,
+        "Name": "Relicanth",
+        "Index": 369
+    },
+    {
+        "Types": [
+            "Water"
+        ],
+        "SpeciesRating": 5,
+        "Name": "Luvdisc",
+        "Index": 370
+    },
+    {
+        "Types": [
+            "Dragon"
+        ],
+        "SpeciesRating": 1,
+        "Name": "Bagon",
+        "Index": 371
+    },
+    {
+        "Types": [
+            "Dragon"
+        ],
+        "SpeciesRating": 7,
+        "Name": "Shelgon",
+        "Index": 372
+    },
+    {
+        "Types": [
+            "Dragon",
+            "Flying"
+        ],
+        "SpeciesRating": 14,
+        "Name": "Salamence",
+        "Index": 373
+    },
+    {
+        "Types": [
+            "Steel",
+            "Psychic"
+        ],
+        "SpeciesRating": 3,
+        "Name": "Beldum",
+        "Index": 374
+    },
+    {
+        "Types": [
+            "Steel",
+            "Psychic"
+        ],
+        "SpeciesRating": 9,
+        "Name": "Metang",
+        "Index": 375
+    },
+    {
+        "Types": [
+            "Steel",
+            "Psychic"
+        ],
+        "SpeciesRating": 14,
+        "Name": "Metagross",
+        "Index": 376
+    },
+    {
+        "Types": [
+            "Rock"
+        ],
+        "SpeciesRating": 14,
+        "Name": "Regirock",
+        "Index": 377
+    },
+    {
+        "Types": [
+            "Ice"
+        ],
+        "SpeciesRating": 14,
+        "Name": "Regice",
+        "Index": 378
+    },
+    {
+        "Types": [
+            "Steel"
+        ],
+        "SpeciesRating": 14,
+        "Name": "Registeel",
+        "Index": 379
+    },
+    {
+        "Types": [
+            "Dragon",
+            "Psychic"
+        ],
+        "SpeciesRating": 15,
+        "Name": "Latias",
+        "Index": 380
+    },
+    {
+        "Types": [
+            "Dragon",
+            "Psychic"
+        ],
+        "SpeciesRating": 15,
+        "Name": "Latios",
+        "Index": 381
+    },
+    {
+        "Types": [
+            "Water"
+        ],
+        "SpeciesRating": 15,
+        "Name": "Kyogre",
+        "Index": 382
+    },
+    {
+        "Types": [
+            "Ground"
+        ],
+        "SpeciesRating": 15,
+        "Name": "Groudon",
+        "Index": 383
+    },
+    {
+        "Types": [
+            "Dragon",
+            "Flying"
+        ],
+        "SpeciesRating": 15,
+        "Name": "Rayquaza",
+        "Index": 384
+    },
+    {
+        "Types": [
+            "Steel",
+            "Psychic"
+        ],
+        "SpeciesRating": 15,
+        "Name": "Jirachi",
+        "Index": 385
+    },
+    {
+        "Types": [
+            "Psychic"
+        ],
+        "SpeciesRating": 15,
+        "Name": "Deoxys",
+        "Index": 386
+    },
+    {
+        "Types": [
+            "Grass"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Turtwig",
+        "Index": 387
+    },
+    {
+        "Types": [
+            "Grass"
+        ],
+        "SpeciesRating": 5,
+        "Name": "Grotle",
+        "Index": 388
+    },
+    {
+        "Types": [
+            "Grass",
+            "Ground"
+        ],
+        "SpeciesRating": 13,
+        "Name": "Torterra",
+        "Index": 389
+    },
+    {
+        "Types": [
+            "Fire"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Chimchar",
+        "Index": 390
+    },
+    {
+        "Types": [
+            "Fire",
+            "Fighting"
+        ],
+        "SpeciesRating": 5,
+        "Name": "Monferno",
+        "Index": 391
+    },
+    {
+        "Types": [
+            "Fire",
+            "Fighting"
+        ],
+        "SpeciesRating": 12,
+        "Name": "Infernape",
+        "Index": 392
+    },
+    {
+        "Types": [
+            "Water"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Piplup",
+        "Index": 393
+    },
+    {
+        "Types": [
+            "Water"
+        ],
+        "SpeciesRating": 5,
+        "Name": "Prinplup",
+        "Index": 394
+    },
+    {
+        "Types": [
+            "Water",
+            "Steel"
+        ],
+        "SpeciesRating": 13,
+        "Name": "Empoleon",
+        "Index": 395
+    },
+    {
+        "Types": [
+            "Normal",
+            "Flying"
+        ],
+        "SpeciesRating": 0.125,
+        "Name": "Starly",
+        "Index": 396
+    },
+    {
+        "Types": [
+            "Normal",
+            "Flying"
+        ],
+        "SpeciesRating": 3,
+        "Name": "Staravia",
+        "Index": 397
+    },
+    {
+        "Types": [
+            "Normal",
+            "Flying"
+        ],
+        "SpeciesRating": 12,
+        "Name": "Staraptor",
+        "Index": 398
+    },
+    {
+        "Types": [
+            "Normal"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Bidoof",
+        "Index": 399
+    },
+    {
+        "Types": [
+            "Normal",
+            "Water"
+        ],
+        "SpeciesRating": 7,
+        "Name": "Bibarel",
+        "Index": 400
+    },
+    {
+        "Types": [
+            "Bug"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Kricketot",
+        "Index": 401
+    },
+    {
+        "Types": [
+            "Bug"
+        ],
+        "SpeciesRating": 5,
+        "Name": "Kricketune",
+        "Index": 402
+    },
+    {
+        "Types": [
+            "Electric"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Shinx",
+        "Index": 403
+    },
+    {
+        "Types": [
+            "Electric"
+        ],
+        "SpeciesRating": 6,
+        "Name": "Luxio",
+        "Index": 404
+    },
+    {
+        "Types": [
+            "Electric"
+        ],
+        "SpeciesRating": 13,
+        "Name": "Luxray",
+        "Index": 405
+    },
+    {
+        "Types": [
+            "Grass",
+            "Poison"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Budew",
+        "Index": 406
+    },
+    {
+        "Types": [
+            "Grass",
+            "Poison"
+        ],
+        "SpeciesRating": 12,
+        "Name": "Roserade",
+        "Index": 407
+    },
+    {
+        "Types": [
+            "Rock"
+        ],
+        "SpeciesRating": 2,
+        "Name": "Cranidos",
+        "Index": 408
+    },
+    {
+        "Types": [
+            "Rock"
+        ],
+        "SpeciesRating": 8,
+        "Name": "Rampardos",
+        "Index": 409
+    },
+    {
+        "Types": [
+            "Rock",
+            "Steel"
+        ],
+        "SpeciesRating": 3,
+        "Name": "Shieldon",
+        "Index": 410
+    },
+    {
+        "Types": [
+            "Rock",
+            "Steel"
+        ],
+        "SpeciesRating": 11,
+        "Name": "Bastiodon",
+        "Index": 411
+    },
+    {
+        "Types": [
+            "Bug"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Burmy",
+        "Index": 412
+    },
+    {
+        "Types": [
+            "Bug",
+            "Grass"
+        ],
+        "SpeciesRating": 6,
+        "Name": "Wormadam",
+        "Index": 413
+    },
+    {
+        "Types": [
+            "Bug",
+            "Flying"
+        ],
+        "SpeciesRating": 4,
+        "Name": "Mothim",
+        "Index": 414
+    },
+    {
+        "Types": [
+            "Bug",
+            "Flying"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Combee",
+        "Index": 415
+    },
+    {
+        "Types": [
+            "Bug",
+            "Flying"
+        ],
+        "SpeciesRating": 8,
+        "Name": "Vespiquen",
+        "Index": 416
+    },
+    {
+        "Types": [
+            "Electric"
+        ],
+        "SpeciesRating": 6,
+        "Name": "Pachirisu",
+        "Index": 417
+    },
+    {
+        "Types": [
+            "Water"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Buizel",
+        "Index": 418
+    },
+    {
+        "Types": [
+            "Water"
+        ],
+        "SpeciesRating": 8,
+        "Name": "Floatzel",
+        "Index": 419
+    },
+    {
+        "Types": [
+            "Grass"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Cherubi",
+        "Index": 420
+    },
+    {
+        "Types": [
+            "Grass"
+        ],
+        "SpeciesRating": 8,
+        "Name": "Cherrim",
+        "Index": 421
+    },
+    {
+        "Types": [
+            "Water"
+        ],
+        "SpeciesRating": 2,
+        "Name": "Shellos",
+        "Index": 422
+    },
+    {
+        "Types": [
+            "Water",
+            "Ground"
+        ],
+        "SpeciesRating": 9,
+        "Name": "Gastrodon",
+        "Index": 423
+    },
+    {
+        "Types": [
+            "Normal"
+        ],
+        "SpeciesRating": 11,
+        "Name": "Ambipom",
+        "Index": 424
+    },
+    {
+        "Types": [
+            "Ghost",
+            "Flying"
+        ],
+        "SpeciesRating": 2,
+        "Name": "Drifloon",
+        "Index": 425
+    },
+    {
+        "Types": [
+            "Ghost",
+            "Flying"
+        ],
+        "SpeciesRating": 9,
+        "Name": "Drifblim",
+        "Index": 426
+    },
+    {
+        "Types": [
+            "Normal"
+        ],
+        "SpeciesRating": 2,
+        "Name": "Buneary",
+        "Index": 427
+    },
+    {
+        "Types": [
+            "Normal"
+        ],
+        "SpeciesRating": 9,
+        "Name": "Lopunny",
+        "Index": 428
+    },
+    {
+        "Types": [
+            "Ghost"
+        ],
+        "SpeciesRating": 12,
+        "Name": "Mismagius",
+        "Index": 429
+    },
+    {
+        "Types": [
+            "Dark",
+            "Flying"
+        ],
+        "SpeciesRating": 10,
+        "Name": "Honchkrow",
+        "Index": 430
+    },
+    {
+        "Types": [
+            "Normal"
+        ],
+        "SpeciesRating": 2,
+        "Name": "Glameow",
+        "Index": 431
+    },
+    {
+        "Types": [
+            "Normal"
+        ],
+        "SpeciesRating": 8,
+        "Name": "Purugly",
+        "Index": 432
+    },
+    {
+        "Types": [
+            "Psychic"
+        ],
+        "SpeciesRating": 1,
+        "Name": "Chingling",
+        "Index": 433
+    },
+    {
+        "Types": [
+            "Poison",
+            "Dark"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Stunky",
+        "Index": 434
+    },
+    {
+        "Types": [
+            "Poison",
+            "Dark"
+        ],
+        "SpeciesRating": 8,
+        "Name": "Skuntank",
+        "Index": 435
+    },
+    {
+        "Types": [
+            "Steel",
+            "Psychic"
+        ],
+        "SpeciesRating": 2,
+        "Name": "Bronzor",
+        "Index": 436
+    },
+    {
+        "Types": [
+            "Steel",
+            "Psychic"
+        ],
+        "SpeciesRating": 11,
+        "Name": "Bronzong",
+        "Index": 437
+    },
+    {
+        "Types": [
+            "Rock"
+        ],
+        "SpeciesRating": 1,
+        "Name": "Bonsly",
+        "Index": 438
+    },
+    {
+        "Types": [
+            "Psychic",
+            "Fairy"
+        ],
+        "SpeciesRating": 1,
+        "Name": "Mime Jr.",
+        "Index": 439
+    },
+    {
+        "Types": [
+            "Normal"
+        ],
+        "SpeciesRating": 1,
+        "Name": "Happiny",
+        "Index": 440
+    },
+    {
+        "Types": [
+            "Normal",
+            "Flying"
+        ],
+        "SpeciesRating": 5,
+        "Name": "Chatot",
+        "Index": 441
+    },
+    {
+        "Types": [
+            "Ghost",
+            "Dark"
+        ],
+        "SpeciesRating": 11,
+        "Name": "Spiritomb",
+        "Index": 442
+    },
+    {
+        "Types": [
+            "Dragon",
+            "Ground"
+        ],
+        "SpeciesRating": 1,
+        "Name": "Gible",
+        "Index": 443
+    },
+    {
+        "Types": [
+            "Dragon",
+            "Ground"
+        ],
+        "SpeciesRating": 7,
+        "Name": "Gabite",
+        "Index": 444
+    },
+    {
+        "Types": [
+            "Dragon",
+            "Ground"
+        ],
+        "SpeciesRating": 14,
+        "Name": "Garchomp",
+        "Index": 445
+    },
+    {
+        "Types": [
+            "Normal"
+        ],
+        "SpeciesRating": 3,
+        "Name": "Munchlax",
+        "Index": 446
+    },
+    {
+        "Types": [
+            "Fighting"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Riolu",
+        "Index": 447
+    },
+    {
+        "Types": [
+            "Fighting",
+            "Steel"
+        ],
+        "SpeciesRating": 8,
+        "Name": "Lucario",
+        "Index": 448
+    },
+    {
+        "Types": [
+            "Ground"
+        ],
+        "SpeciesRating": 1,
+        "Name": "Hippopotas",
+        "Index": 449
+    },
+    {
+        "Types": [
+            "Ground"
+        ],
+        "SpeciesRating": 10,
+        "Name": "Hippowdon",
+        "Index": 450
+    },
+    {
+        "Types": [
+            "Poison",
+            "Bug"
+        ],
+        "SpeciesRating": 2,
+        "Name": "Skorupi",
+        "Index": 451
+    },
+    {
+        "Types": [
+            "Poison",
+            "Dark"
+        ],
+        "SpeciesRating": 10,
+        "Name": "Drapion",
+        "Index": 452
+    },
+    {
+        "Types": [
+            "Poison",
+            "Fighting"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Croagunk",
+        "Index": 453
+    },
+    {
+        "Types": [
+            "Poison",
+            "Fighting"
+        ],
+        "SpeciesRating": 8,
+        "Name": "Toxicroak",
+        "Index": 454
+    },
+    {
+        "Types": [
+            "Grass"
+        ],
+        "SpeciesRating": 7,
+        "Name": "Carnivine",
+        "Index": 455
+    },
+    {
+        "Types": [
+            "Water"
+        ],
+        "SpeciesRating": 2,
+        "Name": "Finneon",
+        "Index": 456
+    },
+    {
+        "Types": [
+            "Water"
+        ],
+        "SpeciesRating": 9,
+        "Name": "Lumineon",
+        "Index": 457
+    },
+    {
+        "Types": [
+            "Water",
+            "Flying"
+        ],
+        "SpeciesRating": 3,
+        "Name": "Mantyke",
+        "Index": 458
+    },
+    {
+        "Types": [
+            "Grass",
+            "Ice"
+        ],
+        "SpeciesRating": 1,
+        "Name": "Snover",
+        "Index": 459
+    },
+    {
+        "Types": [
+            "Grass",
+            "Ice"
+        ],
+        "SpeciesRating": 10,
+        "Name": "Abomasnow",
+        "Index": 460
+    },
+    {
+        "Types": [
+            "Dark",
+            "Ice"
+        ],
+        "SpeciesRating": 11,
+        "Name": "Weavile",
+        "Index": 461
+    },
+    {
+        "Types": [
+            "Electric",
+            "Steel"
+        ],
+        "SpeciesRating": 14,
+        "Name": "Magnezone",
+        "Index": 462
+    },
+    {
+        "Types": [
+            "Normal"
+        ],
+        "SpeciesRating": 14,
+        "Name": "Lickilicky",
+        "Index": 463
+    },
+    {
+        "Types": [
+            "Ground",
+            "Rock"
+        ],
+        "SpeciesRating": 14,
+        "Name": "Rhyperior",
+        "Index": 464
+    },
+    {
+        "Types": [
+            "Grass"
+        ],
+        "SpeciesRating": 12,
+        "Name": "Tangrowth",
+        "Index": 465
+    },
+    {
+        "Types": [
+            "Electric"
+        ],
+        "SpeciesRating": 14,
+        "Name": "Electivire",
+        "Index": 466
+    },
+    {
+        "Types": [
+            "Fire"
+        ],
+        "SpeciesRating": 14,
+        "Name": "Magmortar",
+        "Index": 467
+    },
+    {
+        "Types": [
+            "Fairy",
+            "Flying"
+        ],
+        "SpeciesRating": 14,
+        "Name": "Togekiss",
+        "Index": 468
+    },
+    {
+        "Types": [
+            "Bug",
+            "Flying"
+        ],
+        "SpeciesRating": 13,
+        "Name": "Yanmega",
+        "Index": 469
+    },
+    {
+        "Types": [
+            "Grass"
+        ],
+        "SpeciesRating": 8,
+        "Name": "Leafeon",
+        "Index": 470
+    },
+    {
+        "Types": [
+            "Ice"
+        ],
+        "SpeciesRating": 8,
+        "Name": "Glaceon",
+        "Index": 471
+    },
+    {
+        "Types": [
+            "Ground",
+            "Flying"
+        ],
+        "SpeciesRating": 11,
+        "Name": "Gliscor",
+        "Index": 472
+    },
+    {
+        "Types": [
+            "Ice",
+            "Ground"
+        ],
+        "SpeciesRating": 13,
+        "Name": "Mamoswine",
+        "Index": 473
+    },
+    {
+        "Types": [
+            "Normal"
+        ],
+        "SpeciesRating": 14,
+        "Name": "Porygon-Z",
+        "Index": 474
+    },
+    {
+        "Types": [
+            "Psychic",
+            "Fighting"
+        ],
+        "SpeciesRating": 12,
+        "Name": "Gallade",
+        "Index": 475
+    },
+    {
+        "Types": [
+            "Rock",
+            "Steel"
+        ],
+        "SpeciesRating": 13,
+        "Name": "Probopass",
+        "Index": 476
+    },
+    {
+        "Types": [
+            "Ghost"
+        ],
+        "SpeciesRating": 14,
+        "Name": "Dusknoir",
+        "Index": 477
+    },
+    {
+        "Types": [
+            "Ice",
+            "Ghost"
+        ],
+        "SpeciesRating": 11,
+        "Name": "Froslass",
+        "Index": 478
+    },
+    {
+        "Types": [
+            "Electric",
+            "Ghost"
+        ],
+        "SpeciesRating": 8,
+        "Name": "Rotom",
+        "Index": 479
+    },
+    {
+        "Types": [
+            "Psychic"
+        ],
+        "SpeciesRating": 15,
+        "Name": "Uxie",
+        "Index": 480
+    },
+    {
+        "Types": [
+            "Psychic"
+        ],
+        "SpeciesRating": 15,
+        "Name": "Mesprit",
+        "Index": 481
+    },
+    {
+        "Types": [
+            "Psychic"
+        ],
+        "SpeciesRating": 15,
+        "Name": "Azelf",
+        "Index": 482
+    },
+    {
+        "Types": [
+            "Steel",
+            "Dragon"
+        ],
+        "SpeciesRating": 15,
+        "Name": "Dialga",
+        "Index": 483
+    },
+    {
+        "Types": [
+            "Water",
+            "Dragon"
+        ],
+        "SpeciesRating": 15,
+        "Name": "Palkia",
+        "Index": 484
+    },
+    {
+        "Types": [
+            "Fire",
+            "Steel"
+        ],
+        "SpeciesRating": 15,
+        "Name": "Heatran",
+        "Index": 485
+    },
+    {
+        "Types": [
+            "Normal"
+        ],
+        "SpeciesRating": 15,
+        "Name": "Regigigas",
+        "Index": 486
+    },
+    {
+        "Types": [
+            "Ghost",
+            "Dragon"
+        ],
+        "SpeciesRating": 15,
+        "Name": "Giratina",
+        "Index": 487
+    },
+    {
+        "Types": [
+            "Psychic"
+        ],
+        "SpeciesRating": 15,
+        "Name": "Cresselia",
+        "Index": 488
+    },
+    {
+        "Types": [
+            "Water"
+        ],
+        "SpeciesRating": 15,
+        "Name": "Phione",
+        "Index": 489
+    },
+    {
+        "Types": [
+            "Water"
+        ],
+        "SpeciesRating": 15,
+        "Name": "Manaphy",
+        "Index": 490
+    },
+    {
+        "Types": [
+            "Dark"
+        ],
+        "SpeciesRating": 15,
+        "Name": "Darkrai",
+        "Index": 491
+    },
+    {
+        "Types": [
+            "Grass"
+        ],
+        "SpeciesRating": 15,
+        "Name": "Shaymin",
+        "Index": 492
+    },
+    {
+        "Types": [
+            "Normal"
+        ],
+        "SpeciesRating": 15,
+        "Name": "Arceus",
+        "Index": 493
+    },
+    {
+        "Types": [
+            "Psychic",
+            "Fire"
+        ],
+        "SpeciesRating": 15,
+        "Name": "Victini",
+        "Index": 494
+    },
+    {
+        "Types": [
+            "Grass"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Snivy",
+        "Index": 495
+    },
+    {
+        "Types": [
+            "Grass"
+        ],
+        "SpeciesRating": 5,
+        "Name": "Servine",
+        "Index": 496
+    },
+    {
+        "Types": [
+            "Grass"
+        ],
+        "SpeciesRating": 13,
+        "Name": "Serperior",
+        "Index": 497
+    },
+    {
+        "Types": [
+            "Fire"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Tepig",
+        "Index": 498
+    },
+    {
+        "Types": [
+            "Fire",
+            "Fighting"
+        ],
+        "SpeciesRating": 5,
+        "Name": "Pignite",
+        "Index": 499
+    },
+    {
+        "Types": [
+            "Fire",
+            "Fighting"
+        ],
+        "SpeciesRating": 13,
+        "Name": "Emboar",
+        "Index": 500
+    },
+    {
+        "Types": [
+            "Water"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Oshawott",
+        "Index": 501
+    },
+    {
+        "Types": [
+            "Water"
+        ],
+        "SpeciesRating": 5,
+        "Name": "Dewott",
+        "Index": 502
+    },
+    {
+        "Types": [
+            "Water"
+        ],
+        "SpeciesRating": 13,
+        "Name": "Samurott",
+        "Index": 503
+    },
+    {
+        "Types": [
+            "Normal"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Patrat",
+        "Index": 504
+    },
+    {
+        "Types": [
+            "Normal"
+        ],
+        "SpeciesRating": 6,
+        "Name": "Watchog",
+        "Index": 505
+    },
+    {
+        "Types": [
+            "Normal"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Lillipup",
+        "Index": 506
+    },
+    {
+        "Types": [
+            "Normal"
+        ],
+        "SpeciesRating": 7,
+        "Name": "Herdier",
+        "Index": 507
+    },
+    {
+        "Types": [
+            "Normal"
+        ],
+        "SpeciesRating": 14,
+        "Name": "Stoutland",
+        "Index": 508
+    },
+    {
+        "Types": [
+            "Dark"
+        ],
+        "SpeciesRating": 1,
+        "Name": "Purrloin",
+        "Index": 509
+    },
+    {
+        "Types": [
+            "Dark"
+        ],
+        "SpeciesRating": 8,
+        "Name": "Liepard",
+        "Index": 510
+    },
+    {
+        "Types": [
+            "Grass"
+        ],
+        "SpeciesRating": 1,
+        "Name": "Pansage",
+        "Index": 511
+    },
+    {
+        "Types": [
+            "Grass"
+        ],
+        "SpeciesRating": 10,
+        "Name": "Simisage",
+        "Index": 512
+    },
+    {
+        "Types": [
+            "Fire"
+        ],
+        "SpeciesRating": 1,
+        "Name": "Pansear",
+        "Index": 513
+    },
+    {
+        "Types": [
+            "Fire"
+        ],
+        "SpeciesRating": 10,
+        "Name": "Simisear",
+        "Index": 514
+    },
+    {
+        "Types": [
+            "Water"
+        ],
+        "SpeciesRating": 1,
+        "Name": "Panpour",
+        "Index": 515
+    },
+    {
+        "Types": [
+            "Water"
+        ],
+        "SpeciesRating": 10,
+        "Name": "Simipour",
+        "Index": 516
+    },
+    {
+        "Types": [
+            "Psychic"
+        ],
+        "SpeciesRating": 2,
+        "Name": "Munna",
+        "Index": 517
+    },
+    {
+        "Types": [
+            "Psychic"
+        ],
+        "SpeciesRating": 13,
+        "Name": "Musharna",
+        "Index": 518
+    },
+    {
+        "Types": [
+            "Normal",
+            "Flying"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Pidove",
+        "Index": 519
+    },
+    {
+        "Types": [
+            "Normal",
+            "Flying"
+        ],
+        "SpeciesRating": 4,
+        "Name": "Tranquill",
+        "Index": 520
+    },
+    {
+        "Types": [
+            "Normal",
+            "Flying"
+        ],
+        "SpeciesRating": 11,
+        "Name": "Unfezant",
+        "Index": 521
+    },
+    {
+        "Types": [
+            "Electric"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Blitzle",
+        "Index": 522
+    },
+    {
+        "Types": [
+            "Electric"
+        ],
+        "SpeciesRating": 10,
+        "Name": "Zebstrika",
+        "Index": 523
+    },
+    {
+        "Types": [
+            "Rock"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Roggenrola",
+        "Index": 524
+    },
+    {
+        "Types": [
+            "Rock"
+        ],
+        "SpeciesRating": 7,
+        "Name": "Boldore",
+        "Index": 525
+    },
+    {
+        "Types": [
+            "Rock"
+        ],
+        "SpeciesRating": 14,
+        "Name": "Gigalith",
+        "Index": 526
+    },
+    {
+        "Types": [
+            "Psychic",
+            "Flying"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Woobat",
+        "Index": 527
+    },
+    {
+        "Types": [
+            "Psychic",
+            "Flying"
+        ],
+        "SpeciesRating": 7,
+        "Name": "Swoobat",
+        "Index": 528
+    },
+    {
+        "Types": [
+            "Ground"
+        ],
+        "SpeciesRating": 1,
+        "Name": "Drilbur",
+        "Index": 529
+    },
+    {
+        "Types": [
+            "Steel",
+            "Ground"
+        ],
+        "SpeciesRating": 10,
+        "Name": "Excadrill",
+        "Index": 530
+    },
+    {
+        "Types": [
+            "Normal"
+        ],
+        "SpeciesRating": 10,
+        "Name": "Audino",
+        "Index": 531
+    },
+    {
+        "Types": [
+            "Fighting"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Timburr",
+        "Index": 532
+    },
+    {
+        "Types": [
+            "Fighting"
+        ],
+        "SpeciesRating": 6,
+        "Name": "Gurdurr",
+        "Index": 533
+    },
+    {
+        "Types": [
+            "Fighting"
+        ],
+        "SpeciesRating": 14,
+        "Name": "Conkeldurr",
+        "Index": 534
+    },
+    {
+        "Types": [
+            "Water"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Tympole",
+        "Index": 535
+    },
+    {
+        "Types": [
+            "Water",
+            "Ground"
+        ],
+        "SpeciesRating": 5,
+        "Name": "Palpitoad",
+        "Index": 536
+    },
+    {
+        "Types": [
+            "Water",
+            "Ground"
+        ],
+        "SpeciesRating": 13,
+        "Name": "Seismitoad",
+        "Index": 537
+    },
+    {
+        "Types": [
+            "Fighting"
+        ],
+        "SpeciesRating": 8,
+        "Name": "Throh",
+        "Index": 538
+    },
+    {
+        "Types": [
+            "Fighting"
+        ],
+        "SpeciesRating": 8,
+        "Name": "Sawk",
+        "Index": 539
+    },
+    {
+        "Types": [
+            "Bug",
+            "Grass"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Sewaddle",
+        "Index": 540
+    },
+    {
+        "Types": [
+            "Bug",
+            "Grass"
+        ],
+        "SpeciesRating": 5,
+        "Name": "Swadloon",
+        "Index": 541
+    },
+    {
+        "Types": [
+            "Bug",
+            "Grass"
+        ],
+        "SpeciesRating": 12,
+        "Name": "Leavanny",
+        "Index": 542
+    },
+    {
+        "Types": [
+            "Bug",
+            "Poison"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Venipede",
+        "Index": 543
+    },
+    {
+        "Types": [
+            "Bug",
+            "Poison"
+        ],
+        "SpeciesRating": 6,
+        "Name": "Whirlipede",
+        "Index": 544
+    },
+    {
+        "Types": [
+            "Bug",
+            "Poison"
+        ],
+        "SpeciesRating": 11,
+        "Name": "Scolipede",
+        "Index": 545
+    },
+    {
+        "Types": [
+            "Grass",
+            "Fairy"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Cottonee",
+        "Index": 546
+    },
+    {
+        "Types": [
+            "Grass",
+            "Fairy"
+        ],
+        "SpeciesRating": 8,
+        "Name": "Whimsicott",
+        "Index": 547
+    },
+    {
+        "Types": [
+            "Grass"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Petilil",
+        "Index": 548
+    },
+    {
+        "Types": [
+            "Grass"
+        ],
+        "SpeciesRating": 9,
+        "Name": "Lilligant",
+        "Index": 549
+    },
+    {
+        "Types": [
+            "Water"
+        ],
+        "SpeciesRating": 7,
+        "Name": "Basculin",
+        "Index": 550
+    },
+    {
+        "Types": [
+            "Ground",
+            "Dark"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Sandile",
+        "Index": 551
+    },
+    {
+        "Types": [
+            "Ground",
+            "Dark"
+        ],
+        "SpeciesRating": 5,
+        "Name": "Krokorok",
+        "Index": 552
+    },
+    {
+        "Types": [
+            "Ground",
+            "Dark"
+        ],
+        "SpeciesRating": 13,
+        "Name": "Krookodile",
+        "Index": 553
+    },
+    {
+        "Types": [
+            "Fire"
+        ],
+        "SpeciesRating": 1,
+        "Name": "Darumaka",
+        "Index": 554
+    },
+    {
+        "Types": [
+            "Fire"
+        ],
+        "SpeciesRating": 12,
+        "Name": "Darmanitan",
+        "Index": 555
+    },
+    {
+        "Types": [
+            "Grass"
+        ],
+        "SpeciesRating": 5,
+        "Name": "Maractus",
+        "Index": 556
+    },
+    {
+        "Types": [
+            "Bug",
+            "Rock"
+        ],
+        "SpeciesRating": 2,
+        "Name": "Dwebble",
+        "Index": 557
+    },
+    {
+        "Types": [
+            "Bug",
+            "Rock"
+        ],
+        "SpeciesRating": 10,
+        "Name": "Crustle",
+        "Index": 558
+    },
+    {
+        "Types": [
+            "Dark",
+            "Fighting"
+        ],
+        "SpeciesRating": 2,
+        "Name": "Scraggy",
+        "Index": 559
+    },
+    {
+        "Types": [
+            "Dark",
+            "Fighting"
+        ],
+        "SpeciesRating": 10,
+        "Name": "Scrafty",
+        "Index": 560
+    },
+    {
+        "Types": [
+            "Psychic",
+            "Flying"
+        ],
+        "SpeciesRating": 10,
+        "Name": "Sigilyph",
+        "Index": 561
+    },
+    {
+        "Types": [
+            "Ghost"
+        ],
+        "SpeciesRating": 1,
+        "Name": "Yamask",
+        "Index": 562
+    },
+    {
+        "Types": [
+            "Ghost"
+        ],
+        "SpeciesRating": 9,
+        "Name": "Cofagrigus",
+        "Index": 563
+    },
+    {
+        "Types": [
+            "Water",
+            "Rock"
+        ],
+        "SpeciesRating": 2,
+        "Name": "Tirtouga",
+        "Index": 564
+    },
+    {
+        "Types": [
+            "Water",
+            "Rock"
+        ],
+        "SpeciesRating": 13,
+        "Name": "Carracosta",
+        "Index": 565
+    },
+    {
+        "Types": [
+            "Rock",
+            "Flying"
+        ],
+        "SpeciesRating": 3,
+        "Name": "Archen",
+        "Index": 566
+    },
+    {
+        "Types": [
+            "Rock",
+            "Flying"
+        ],
+        "SpeciesRating": 12,
+        "Name": "Archeops",
+        "Index": 567
+    },
+    {
+        "Types": [
+            "Poison"
+        ],
+        "SpeciesRating": 1,
+        "Name": "Trubbish",
+        "Index": 568
+    },
+    {
+        "Types": [
+            "Poison"
+        ],
+        "SpeciesRating": 12,
+        "Name": "Garbodor",
+        "Index": 569
+    },
+    {
+        "Types": [
+            "Dark"
+        ],
+        "SpeciesRating": 1,
+        "Name": "Zorua",
+        "Index": 570
+    },
+    {
+        "Types": [
+            "Dark"
+        ],
+        "SpeciesRating": 12,
+        "Name": "Zoroark",
+        "Index": 571
+    },
+    {
+        "Types": [
+            "Normal"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Minccino",
+        "Index": 572
+    },
+    {
+        "Types": [
+            "Normal"
+        ],
+        "SpeciesRating": 9,
+        "Name": "Cinccino",
+        "Index": 573
+    },
+    {
+        "Types": [
+            "Psychic"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Gothita",
+        "Index": 574
+    },
+    {
+        "Types": [
+            "Psychic"
+        ],
+        "SpeciesRating": 7,
+        "Name": "Gothorita",
+        "Index": 575
+    },
+    {
+        "Types": [
+            "Psychic"
+        ],
+        "SpeciesRating": 14,
+        "Name": "Gothitelle",
+        "Index": 576
+    },
+    {
+        "Types": [
+            "Psychic"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Solosis",
+        "Index": 577
+    },
+    {
+        "Types": [
+            "Psychic"
+        ],
+        "SpeciesRating": 6,
+        "Name": "Duosion",
+        "Index": 578
+    },
+    {
+        "Types": [
+            "Psychic"
+        ],
+        "SpeciesRating": 14,
+        "Name": "Reuniclus",
+        "Index": 579
+    },
+    {
+        "Types": [
+            "Water",
+            "Flying"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Ducklett",
+        "Index": 580
+    },
+    {
+        "Types": [
+            "Water",
+            "Flying"
+        ],
+        "SpeciesRating": 9,
+        "Name": "Swanna",
+        "Index": 581
+    },
+    {
+        "Types": [
+            "Ice"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Vanillite",
+        "Index": 582
+    },
+    {
+        "Types": [
+            "Ice"
+        ],
+        "SpeciesRating": 6,
+        "Name": "Vanillish",
+        "Index": 583
+    },
+    {
+        "Types": [
+            "Ice"
+        ],
+        "SpeciesRating": 13,
+        "Name": "Vanilluxe",
+        "Index": 584
+    },
+    {
+        "Types": [
+            "Normal",
+            "Grass"
+        ],
+        "SpeciesRating": 2,
+        "Name": "Deerling",
+        "Index": 585
+    },
+    {
+        "Types": [
+            "Normal",
+            "Grass"
+        ],
+        "SpeciesRating": 10,
+        "Name": "Sawsbuck",
+        "Index": 586
+    },
+    {
+        "Types": [
+            "Electric",
+            "Flying"
+        ],
+        "SpeciesRating": 7,
+        "Name": "Emolga",
+        "Index": 587
+    },
+    {
+        "Types": [
+            "Bug"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Karrablast",
+        "Index": 588
+    },
+    {
+        "Types": [
+            "Bug",
+            "Steel"
+        ],
+        "SpeciesRating": 9,
+        "Name": "Escavalier",
+        "Index": 589
+    },
+    {
+        "Types": [
+            "Grass",
+            "Poison"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Foongus",
+        "Index": 590
+    },
+    {
+        "Types": [
+            "Grass",
+            "Poison"
+        ],
+        "SpeciesRating": 8,
+        "Name": "Amoonguss",
+        "Index": 591
+    },
+    {
+        "Types": [
+            "Water",
+            "Ghost"
+        ],
+        "SpeciesRating": 2,
+        "Name": "Frillish",
+        "Index": 592
+    },
+    {
+        "Types": [
+            "Water",
+            "Ghost"
+        ],
+        "SpeciesRating": 12,
+        "Name": "Jellicent",
+        "Index": 593
+    },
+    {
+        "Types": [
+            "Water"
+        ],
+        "SpeciesRating": 9,
+        "Name": "Alomomola",
+        "Index": 594
+    },
+    {
+        "Types": [
+            "Bug",
+            "Electric"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Joltik",
+        "Index": 595
+    },
+    {
+        "Types": [
+            "Bug",
+            "Electric"
+        ],
+        "SpeciesRating": 8,
+        "Name": "Galvantula",
+        "Index": 596
+    },
+    {
+        "Types": [
+            "Grass",
+            "Steel"
+        ],
+        "SpeciesRating": 2,
+        "Name": "Ferroseed",
+        "Index": 597
+    },
+    {
+        "Types": [
+            "Grass",
+            "Steel"
+        ],
+        "SpeciesRating": 10,
+        "Name": "Ferrothorn",
+        "Index": 598
+    },
+    {
+        "Types": [
+            "Steel"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Klink",
+        "Index": 599
+    },
+    {
+        "Types": [
+            "Steel"
+        ],
+        "SpeciesRating": 7,
+        "Name": "Klang",
+        "Index": 600
+    },
+    {
+        "Types": [
+            "Steel"
+        ],
+        "SpeciesRating": 14,
+        "Name": "Klinklang",
+        "Index": 601
+    },
+    {
+        "Types": [
+            "Electric"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Tynamo",
+        "Index": 602
+    },
+    {
+        "Types": [
+            "Electric"
+        ],
+        "SpeciesRating": 5,
+        "Name": "Eelektrik",
+        "Index": 603
+    },
+    {
+        "Types": [
+            "Electric"
+        ],
+        "SpeciesRating": 12,
+        "Name": "Eelektross",
+        "Index": 604
+    },
+    {
+        "Types": [
+            "Psychic"
+        ],
+        "SpeciesRating": 1,
+        "Name": "Elgyem",
+        "Index": 605
+    },
+    {
+        "Types": [
+            "Psychic"
+        ],
+        "SpeciesRating": 11,
+        "Name": "Beheeyem",
+        "Index": 606
+    },
+    {
+        "Types": [
+            "Ghost",
+            "Fire"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Litwick",
+        "Index": 607
+    },
+    {
+        "Types": [
+            "Ghost",
+            "Fire"
+        ],
+        "SpeciesRating": 6,
+        "Name": "Lampent",
+        "Index": 608
+    },
+    {
+        "Types": [
+            "Ghost",
+            "Fire"
+        ],
+        "SpeciesRating": 14,
+        "Name": "Chandelure",
+        "Index": 609
+    },
+    {
+        "Types": [
+            "Dragon"
+        ],
+        "SpeciesRating": 1,
+        "Name": "Axew",
+        "Index": 610
+    },
+    {
+        "Types": [
+            "Dragon"
+        ],
+        "SpeciesRating": 6,
+        "Name": "Fraxure",
+        "Index": 611
+    },
+    {
+        "Types": [
+            "Dragon"
+        ],
+        "SpeciesRating": 14,
+        "Name": "Haxorus",
+        "Index": 612
+    },
+    {
+        "Types": [
+            "Ice"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Cubchoo",
+        "Index": 613
+    },
+    {
+        "Types": [
+            "Ice"
+        ],
+        "SpeciesRating": 12,
+        "Name": "Beartic",
+        "Index": 614
+    },
+    {
+        "Types": [
+            "Ice"
+        ],
+        "SpeciesRating": 11,
+        "Name": "Cryogonal",
+        "Index": 615
+    },
+    {
+        "Types": [
+            "Bug"
+        ],
+        "SpeciesRating": 1,
+        "Name": "Shelmet",
+        "Index": 616
+    },
+    {
+        "Types": [
+            "Bug"
+        ],
+        "SpeciesRating": 10,
+        "Name": "Accelgor",
+        "Index": 617
+    },
+    {
+        "Types": [
+            "Ground",
+            "Electric"
+        ],
+        "SpeciesRating": 8,
+        "Name": "Stunfisk",
+        "Index": 618
+    },
+    {
+        "Types": [
+            "Fighting"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Mienfoo",
+        "Index": 619
+    },
+    {
+        "Types": [
+            "Fighting"
+        ],
+        "SpeciesRating": 8,
+        "Name": "Mienshao",
+        "Index": 620
+    },
+    {
+        "Types": [
+            "Dragon"
+        ],
+        "SpeciesRating": 10,
+        "Name": "Druddigon",
+        "Index": 621
+    },
+    {
+        "Types": [
+            "Ground",
+            "Ghost"
+        ],
+        "SpeciesRating": 1,
+        "Name": "Golett",
+        "Index": 622
+    },
+    {
+        "Types": [
+            "Ground",
+            "Ghost"
+        ],
+        "SpeciesRating": 11,
+        "Name": "Golurk",
+        "Index": 623
+    },
+    {
+        "Types": [
+            "Dark",
+            "Steel"
+        ],
+        "SpeciesRating": 2,
+        "Name": "Pawniard",
+        "Index": 624
+    },
+    {
+        "Types": [
+            "Dark",
+            "Steel"
+        ],
+        "SpeciesRating": 12,
+        "Name": "Bisharp",
+        "Index": 625
+    },
+    {
+        "Types": [
+            "Normal"
+        ],
+        "SpeciesRating": 10,
+        "Name": "Bouffalant",
+        "Index": 626
+    },
+    {
+        "Types": [
+            "Normal",
+            "Flying"
+        ],
+        "SpeciesRating": 2,
+        "Name": "Rufflet",
+        "Index": 627
+    },
+    {
+        "Types": [
+            "Normal",
+            "Flying"
+        ],
+        "SpeciesRating": 12,
+        "Name": "Braviary",
+        "Index": 628
+    },
+    {
+        "Types": [
+            "Dark",
+            "Flying"
+        ],
+        "SpeciesRating": 2,
+        "Name": "Vullaby",
+        "Index": 629
+    },
+    {
+        "Types": [
+            "Dark",
+            "Flying"
+        ],
+        "SpeciesRating": 13,
+        "Name": "Mandibuzz",
+        "Index": 630
+    },
+    {
+        "Types": [
+            "Fire"
+        ],
+        "SpeciesRating": 8,
+        "Name": "Heatmor",
+        "Index": 631
+    },
+    {
+        "Types": [
+            "Bug",
+            "Steel"
+        ],
+        "SpeciesRating": 8,
+        "Name": "Durant",
+        "Index": 632
+    },
+    {
+        "Types": [
+            "Dark",
+            "Dragon"
+        ],
+        "SpeciesRating": 1,
+        "Name": "Deino",
+        "Index": 633
+    },
+    {
+        "Types": [
+            "Dark",
+            "Dragon"
+        ],
+        "SpeciesRating": 6,
+        "Name": "Zweilous",
+        "Index": 634
+    },
+    {
+        "Types": [
+            "Dark",
+            "Dragon"
+        ],
+        "SpeciesRating": 14,
+        "Name": "Hydreigon",
+        "Index": 635
+    },
+    {
+        "Types": [
+            "Bug",
+            "Fire"
+        ],
+        "SpeciesRating": 4,
+        "Name": "Larvesta",
+        "Index": 636
+    },
+    {
+        "Types": [
+            "Bug",
+            "Fire"
+        ],
+        "SpeciesRating": 13,
+        "Name": "Volcarona",
+        "Index": 637
+    },
+    {
+        "Types": [
+            "Steel",
+            "Fighting"
+        ],
+        "SpeciesRating": 14,
+        "Name": "Cobalion",
+        "Index": 638
+    },
+    {
+        "Types": [
+            "Rock",
+            "Fighting"
+        ],
+        "SpeciesRating": 14,
+        "Name": "Terrakion",
+        "Index": 639
+    },
+    {
+        "Types": [
+            "Grass",
+            "Fighting"
+        ],
+        "SpeciesRating": 14,
+        "Name": "Virizion",
+        "Index": 640
+    },
+    {
+        "Types": [
+            "Flying"
+        ],
+        "SpeciesRating": 14,
+        "Name": "Tornadus",
+        "Index": 641
+    },
+    {
+        "Types": [
+            "Electric",
+            "Flying"
+        ],
+        "SpeciesRating": 14,
+        "Name": "Thundurus",
+        "Index": 642
+    },
+    {
+        "Types": [
+            "Dragon",
+            "Fire"
+        ],
+        "SpeciesRating": 15,
+        "Name": "Reshiram",
+        "Index": 643
+    },
+    {
+        "Types": [
+            "Dragon",
+            "Electric"
+        ],
+        "SpeciesRating": 15,
+        "Name": "Zekrom",
+        "Index": 644
+    },
+    {
+        "Types": [
+            "Ground",
+            "Flying"
+        ],
+        "SpeciesRating": 14,
+        "Name": "Landorus",
+        "Index": 645
+    },
+    {
+        "Types": [
+            "Dragon",
+            "Ice"
+        ],
+        "SpeciesRating": 15,
+        "Name": "Kyurem",
+        "Index": 646
+    },
+    {
+        "Types": [
+            "Water",
+            "Fighting"
+        ],
+        "SpeciesRating": 14,
+        "Name": "Keldeo",
+        "Index": 647
+    },
+    {
+        "Types": [
+            "Normal",
+            "Psychic"
+        ],
+        "SpeciesRating": 15,
+        "Name": "Meloetta",
+        "Index": 648
+    },
+    {
+        "Types": [
+            "Bug",
+            "Steel"
+        ],
+        "SpeciesRating": 15,
+        "Name": "Genesect",
+        "Index": 649
+    },
+    {
+        "Types": [
+            "Grass"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Chespin",
+        "Index": 650
+    },
+    {
+        "Types": [
+            "Grass"
+        ],
+        "SpeciesRating": 5,
+        "Name": "Quilladin",
+        "Index": 651
+    },
+    {
+        "Types": [
+            "Grass",
+            "Fighting"
+        ],
+        "SpeciesRating": 13,
+        "Name": "Chesnaught",
+        "Index": 652
+    },
+    {
+        "Types": [
+            "Fire"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Fennekin",
+        "Index": 653
+    },
+    {
+        "Types": [
+            "Fire"
+        ],
+        "SpeciesRating": 5,
+        "Name": "Braixen",
+        "Index": 654
+    },
+    {
+        "Types": [
+            "Fire",
+            "Psychic"
+        ],
+        "SpeciesRating": 13,
+        "Name": "Delphox",
+        "Index": 655
+    },
+    {
+        "Types": [
+            "Water"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Froakie",
+        "Index": 656
+    },
+    {
+        "Types": [
+            "Water"
+        ],
+        "SpeciesRating": 5,
+        "Name": "Frogadier",
+        "Index": 657
+    },
+    {
+        "Types": [
+            "Water",
+            "Dark"
+        ],
+        "SpeciesRating": 13,
+        "Name": "Greninja",
+        "Index": 658
+    },
+    {
+        "Types": [
+            "Normal"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Bunnelby",
+        "Index": 659
+    },
+    {
+        "Types": [
+            "Normal",
+            "Ground"
+        ],
+        "SpeciesRating": 8,
+        "Name": "Diggersby",
+        "Index": 660
+    },
+    {
+        "Types": [
+            "Normal",
+            "Flying"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Fletchling",
+        "Index": 661
+    },
+    {
+        "Types": [
+            "Fire",
+            "Flying"
+        ],
+        "SpeciesRating": 6,
+        "Name": "Fletchinder",
+        "Index": 662
+    },
+    {
+        "Types": [
+            "Fire",
+            "Flying"
+        ],
+        "SpeciesRating": 13,
+        "Name": "Talonflame",
+        "Index": 663
+    },
+    {
+        "Types": [
+            "Bug"
+        ],
+        "SpeciesRating": 0.125,
+        "Name": "Scatterbug",
+        "Index": 664
+    },
+    {
+        "Types": [
+            "Bug"
+        ],
+        "SpeciesRating": 1,
+        "Name": "Spewpa",
+        "Index": 665
+    },
+    {
+        "Types": [
+            "Bug",
+            "Flying"
+        ],
+        "SpeciesRating": 8,
+        "Name": "Vivillon",
+        "Index": 666
+    },
+    {
+        "Types": [
+            "Fire",
+            "Normal"
+        ],
+        "SpeciesRating": 1,
+        "Name": "Litleo",
+        "Index": 667
+    },
+    {
+        "Types": [
+            "Fire",
+            "Normal"
+        ],
+        "SpeciesRating": 9,
+        "Name": "Pyroar",
+        "Index": 668
+    },
+    {
+        "Types": [
+            "Fairy"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Flabebe",
+        "Index": 669
+    },
+    {
+        "Types": [
+            "Fairy"
+        ],
+        "SpeciesRating": 8,
+        "Name": "Floette",
+        "Index": 670
+    },
+    {
+        "Types": [
+            "Fairy"
+        ],
+        "SpeciesRating": 14,
+        "Name": "Florges",
+        "Index": 671
+    },
+    {
+        "Types": [
+            "Grass"
+        ],
+        "SpeciesRating": 1,
+        "Name": "Skiddo",
+        "Index": 672
+    },
+    {
+        "Types": [
+            "Grass"
+        ],
+        "SpeciesRating": 12,
+        "Name": "Gogoat",
+        "Index": 673
+    },
+    {
+        "Types": [
+            "Fighting"
+        ],
+        "SpeciesRating": 1,
+        "Name": "Pancham",
+        "Index": 674
+    },
+    {
+        "Types": [
+            "Fighting",
+            "Dark"
+        ],
+        "SpeciesRating": 12,
+        "Name": "Pangoro",
+        "Index": 675
+    },
+    {
+        "Types": [
+            "Normal"
+        ],
+        "SpeciesRating": 10,
+        "Name": "Furfrou",
+        "Index": 676
+    },
+    {
+        "Types": [
+            "Psychic"
+        ],
+        "SpeciesRating": 1,
+        "Name": "Espurr",
+        "Index": 677
+    },
+    {
+        "Types": [
+            "Psychic"
+        ],
+        "SpeciesRating": 9,
+        "Name": "Meowstic-f",
+        "Index": 678
+    },
+    {
+        "Types": [
+            "Psychic"
+        ],
+        "SpeciesRating": 9,
+        "Name": "Meowstic-m",
+        "Index": 678
+    },
+    {
+        "Types": [
+            "Steel",
+            "Ghost"
+        ],
+        "SpeciesRating": 1,
+        "Name": "Honedge",
+        "Index": 679
+    },
+    {
+        "Types": [
+            "Steel",
+            "Ghost"
+        ],
+        "SpeciesRating": 10,
+        "Name": "Doublade",
+        "Index": 680
+    },
+    {
+        "Types": [
+            "Steel",
+            "Ghost"
+        ],
+        "SpeciesRating": 13,
+        "Name": "Aegislash",
+        "Index": 681
+    },
+    {
+        "Types": [
+            "Fairy"
+        ],
+        "SpeciesRating": 2,
+        "Name": "Spritzee",
+        "Index": 682
+    },
+    {
+        "Types": [
+            "Fairy"
+        ],
+        "SpeciesRating": 12,
+        "Name": "Aromatisse",
+        "Index": 683
+    },
+    {
+        "Types": [
+            "Fairy"
+        ],
+        "SpeciesRating": 1,
+        "Name": "Swirlix",
+        "Index": 684
+    },
+    {
+        "Types": [
+            "Fairy"
+        ],
+        "SpeciesRating": 12,
+        "Name": "Slurpuff",
+        "Index": 685
+    },
+    {
+        "Types": [
+            "Dark",
+            "Psychic"
+        ],
+        "SpeciesRating": 1,
+        "Name": "Inkay",
+        "Index": 686
+    },
+    {
+        "Types": [
+            "Dark",
+            "Psychic"
+        ],
+        "SpeciesRating": 11,
+        "Name": "Malamar",
+        "Index": 687
+    },
+    {
+        "Types": [
+            "Rock",
+            "Water"
+        ],
+        "SpeciesRating": 1,
+        "Name": "Binacle",
+        "Index": 688
+    },
+    {
+        "Types": [
+            "Rock",
+            "Water"
+        ],
+        "SpeciesRating": 12,
+        "Name": "Barbaracle",
+        "Index": 689
+    },
+    {
+        "Types": [
+            "Poison",
+            "Water"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Skrelp",
+        "Index": 690
+    },
+    {
+        "Types": [
+            "Poison",
+            "Dragon"
+        ],
+        "SpeciesRating": 12,
+        "Name": "Dragalge",
+        "Index": 691
+    },
+    {
+        "Types": [
+            "Water"
+        ],
+        "SpeciesRating": 1,
+        "Name": "Clauncher",
+        "Index": 692
+    },
+    {
+        "Types": [
+            "Water"
+        ],
+        "SpeciesRating": 11,
+        "Name": "Clawitzer",
+        "Index": 693
+    },
+    {
+        "Types": [
+            "Electric",
+            "Normal"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Helioptile",
+        "Index": 694
+    },
+    {
+        "Types": [
+            "Electric",
+            "Normal"
+        ],
+        "SpeciesRating": 11,
+        "Name": "Heliolisk",
+        "Index": 695
+    },
+    {
+        "Types": [
+            "Rock",
+            "Dragon"
+        ],
+        "SpeciesRating": 2,
+        "Name": "Tyrunt",
+        "Index": 696
+    },
+    {
+        "Types": [
+            "Rock",
+            "Dragon"
+        ],
+        "SpeciesRating": 12,
+        "Name": "Tyrantrum",
+        "Index": 697
+    },
+    {
+        "Types": [
+            "Rock",
+            "Ice"
+        ],
+        "SpeciesRating": 2,
+        "Name": "Amaura",
+        "Index": 698
+    },
+    {
+        "Types": [
+            "Rock",
+            "Ice"
+        ],
+        "SpeciesRating": 13,
+        "Name": "Aurorus",
+        "Index": 699
+    },
+    {
+        "Types": [
+            "Fairy"
+        ],
+        "SpeciesRating": 8,
+        "Name": "Sylveon",
+        "Index": 700
+    },
+    {
+        "Types": [
+            "Fighting",
+            "Flying"
+        ],
+        "SpeciesRating": 11,
+        "Name": "Hawlucha",
+        "Index": 701
+    },
+    {
+        "Types": [
+            "Electric",
+            "Fairy"
+        ],
+        "SpeciesRating": 7,
+        "Name": "Dedenne",
+        "Index": 702
+    },
+    {
+        "Types": [
+            "Rock",
+            "Fairy"
+        ],
+        "SpeciesRating": 10,
+        "Name": "Carbink",
+        "Index": 703
+    },
+    {
+        "Types": [
+            "Dragon"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Goomy",
+        "Index": 704
+    },
+    {
+        "Types": [
+            "Dragon"
+        ],
+        "SpeciesRating": 10,
+        "Name": "Sliggoo",
+        "Index": 705
+    },
+    {
+        "Types": [
+            "Dragon"
+        ],
+        "SpeciesRating": 14,
+        "Name": "Goodra",
+        "Index": 706
+    },
+    {
+        "Types": [
+            "Steel",
+            "Fairy"
+        ],
+        "SpeciesRating": 8,
+        "Name": "Klefki",
+        "Index": 707
+    },
+    {
+        "Types": [
+            "Ghost",
+            "Grass"
+        ],
+        "SpeciesRating": 1,
+        "Name": "Phantump",
+        "Index": 708
+    },
+    {
+        "Types": [
+            "Ghost",
+            "Grass"
+        ],
+        "SpeciesRating": 11,
+        "Name": "Trevenant",
+        "Index": 709
+    },
+    {
+        "Types": [
+            "Ghost",
+            "Grass"
+        ],
+        "SpeciesRating": 2,
+        "Name": "Pumpkaboo",
+        "Index": 710
+    },
+    {
+        "Types": [
+            "Ghost",
+            "Grass"
+        ],
+        "SpeciesRating": 12,
+        "Name": "Gourgeist",
+        "Index": 711
+    },
+    {
+        "Types": [
+            "Ice"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Bergmite",
+        "Index": 712
+    },
+    {
+        "Types": [
+            "Ice"
+        ],
+        "SpeciesRating": 13,
+        "Name": "Avalugg",
+        "Index": 713
+    },
+    {
+        "Types": [
+            "Flying",
+            "Dragon"
+        ],
+        "SpeciesRating": 1,
+        "Name": "Noibat",
+        "Index": 714
+    },
+    {
+        "Types": [
+            "Flying",
+            "Dragon"
+        ],
+        "SpeciesRating": 13,
+        "Name": "Noivern",
+        "Index": 715
+    },
+    {
+        "Types": [
+            "Fairy"
+        ],
+        "SpeciesRating": 15,
+        "Name": "Xerneas",
+        "Index": 716
+    },
+    {
+        "Types": [
+            "Dark",
+            "Flying"
+        ],
+        "SpeciesRating": 15,
+        "Name": "Yveltal",
+        "Index": 717
+    },
+    {
+        "Types": [
+            "Dragon",
+            "Ground"
+        ],
+        "SpeciesRating": 15,
+        "Name": "Zygarde",
+        "Index": 718
+    },
+    {
+        "Types": [
+            "Rock",
+            "Fairy"
+        ],
+        "SpeciesRating": 15,
+        "Name": "Diancie",
+        "Index": 719
+    },
+    {
+        "Types": [
+            "Psychic",
+            "Ghost"
+        ],
+        "SpeciesRating": 15,
+        "Name": "Hoopa",
+        "Index": 720
+    },
+    {
+        "Types": [
+            "Fire",
+            "Water"
+        ],
+        "SpeciesRating": 15,
+        "Name": "Volcanion",
+        "Index": 721
+    },
+    {
+        "Types": [
+            "Grass",
+            "Flying"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Rowlet",
+        "Index": 722
+    },
+    {
+        "Types": [
+            "Grass",
+            "Flying"
+        ],
+        "SpeciesRating": 5,
+        "Name": "Dartrix",
+        "Index": 723
+    },
+    {
+        "Types": [
+            "Grass",
+            "Ghost"
+        ],
+        "SpeciesRating": 13,
+        "Name": "Decidueye",
+        "Index": 724
+    },
+    {
+        "Types": [
+            "Fire"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Litten",
+        "Index": 725
+    },
+    {
+        "Types": [
+            "Fire"
+        ],
+        "SpeciesRating": 5,
+        "Name": "Torracat",
+        "Index": 726
+    },
+    {
+        "Types": [
+            "Fire",
+            "Dark"
+        ],
+        "SpeciesRating": 13,
+        "Name": "Incineroar",
+        "Index": 727
+    },
+    {
+        "Types": [
+            "Water"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Popplio",
+        "Index": 728
+    },
+    {
+        "Types": [
+            "Water"
+        ],
+        "SpeciesRating": 5,
+        "Name": "Brionne",
+        "Index": 729
+    },
+    {
+        "Types": [
+            "Water",
+            "Fairy"
+        ],
+        "SpeciesRating": 13,
+        "Name": "Primarina",
+        "Index": 730
+    },
+    {
+        "Types": [
+            "Normal",
+            "Flying"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Pikipek",
+        "Index": 731
+    },
+    {
+        "Types": [
+            "Normal",
+            "Flying"
+        ],
+        "SpeciesRating": 3,
+        "Name": "Trumbeak",
+        "Index": 732
+    },
+    {
+        "Types": [
+            "Normal",
+            "Flying"
+        ],
+        "SpeciesRating": 10,
+        "Name": "Toucannon",
+        "Index": 733
+    },
+    {
+        "Types": [
+            "Normal"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Yungoos",
+        "Index": 734
+    },
+    {
+        "Types": [
+            "Normal"
+        ],
+        "SpeciesRating": 7,
+        "Name": "Gumshoos",
+        "Index": 735
+    },
+    {
+        "Types": [
+            "Bug"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Grubbin",
+        "Index": 736
+    },
+    {
+        "Types": [
+            "Bug",
+            "Electric"
+        ],
+        "SpeciesRating": 5,
+        "Name": "Charjabug",
+        "Index": 737
+    },
+    {
+        "Types": [
+            "Bug",
+            "Electric"
+        ],
+        "SpeciesRating": 10,
+        "Name": "Vikavolt",
+        "Index": 738
+    },
+    {
+        "Types": [
+            "Fighting"
+        ],
+        "SpeciesRating": 1,
+        "Name": "Crabrawler",
+        "Index": 739
+    },
+    {
+        "Types": [
+            "Fighting",
+            "Ice"
+        ],
+        "SpeciesRating": 8,
+        "Name": "Crabominable",
+        "Index": 740
+    },
+    {
+        "Types": [
+            "Fire",
+            "Flying"
+        ],
+        "SpeciesRating": 7,
+        "Name": "Oricorio",
+        "Index": 741
+    },
+    {
+        "Types": [
+            "Bug",
+            "Fairy"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Cutiefly",
+        "Index": 742
+    },
+    {
+        "Types": [
+            "Bug",
+            "Fairy"
+        ],
+        "SpeciesRating": 7,
+        "Name": "Ribombee",
+        "Index": 743
+    },
+    {
+        "Types": [
+            "Rock"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Rockruff",
+        "Index": 744
+    },
+    {
+        "Types": [
+            "Rock"
+        ],
+        "SpeciesRating": 9,
+        "Name": "Lycanroc",
+        "Index": 745
+    },
+    {
+        "Types": [
+            "Water"
+        ],
+        "SpeciesRating": 5,
+        "Name": "Wishiwashi",
+        "Index": 746
+    },
+    {
+        "Types": [
+            "Poison",
+            "Water"
+        ],
+        "SpeciesRating": 1,
+        "Name": "Mareanie",
+        "Index": 747
+    },
+    {
+        "Types": [
+            "Poison",
+            "Water"
+        ],
+        "SpeciesRating": 12,
+        "Name": "Toxapex",
+        "Index": 748
+    },
+    {
+        "Types": [
+            "Ground"
+        ],
+        "SpeciesRating": 2,
+        "Name": "Mudbray",
+        "Index": 749
+    },
+    {
+        "Types": [
+            "Ground"
+        ],
+        "SpeciesRating": 10,
+        "Name": "Mudsdale",
+        "Index": 750
+    },
+    {
+        "Types": [
+            "Water",
+            "Bug"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Dewpider",
+        "Index": 751
+    },
+    {
+        "Types": [
+            "Water",
+            "Bug"
+        ],
+        "SpeciesRating": 10,
+        "Name": "Araquanid",
+        "Index": 752
+    },
+    {
+        "Types": [
+            "Grass"
+        ],
+        "SpeciesRating": 0.125,
+        "Name": "Fomantis",
+        "Index": 753
+    },
+    {
+        "Types": [
+            "Grass"
+        ],
+        "SpeciesRating": 10,
+        "Name": "Lurantis",
+        "Index": 754
+    },
+    {
+        "Types": [
+            "Grass",
+            "Fairy"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Morelull",
+        "Index": 755
+    },
+    {
+        "Types": [
+            "Grass",
+            "Fairy"
+        ],
+        "SpeciesRating": 8,
+        "Name": "Shiinotic",
+        "Index": 756
+    },
+    {
+        "Types": [
+            "Poison",
+            "Fire"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Salandit",
+        "Index": 757
+    },
+    {
+        "Types": [
+            "Poison",
+            "Fire"
+        ],
+        "SpeciesRating": 10,
+        "Name": "Salazzle",
+        "Index": 758
+    },
+    {
+        "Types": [
+            "Normal",
+            "Fighting"
+        ],
+        "SpeciesRating": 1,
+        "Name": "Stufful",
+        "Index": 759
+    },
+    {
+        "Types": [
+            "Normal",
+            "Fighting"
+        ],
+        "SpeciesRating": 10,
+        "Name": "Bewear",
+        "Index": 760
+    },
+    {
+        "Types": [
+            "Grass"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Bounsweet",
+        "Index": 761
+    },
+    {
+        "Types": [
+            "Grass"
+        ],
+        "SpeciesRating": 3,
+        "Name": "Steenee",
+        "Index": 762
+    },
+    {
+        "Types": [
+            "Grass"
+        ],
+        "SpeciesRating": 13,
+        "Name": "Tsareena",
+        "Index": 763
+    },
+    {
+        "Types": [
+            "Fairy"
+        ],
+        "SpeciesRating": 9,
+        "Name": "Comfey",
+        "Index": 764
+    },
+    {
+        "Types": [
+            "Normal",
+            "Psychic"
+        ],
+        "SpeciesRating": 10,
+        "Name": "Oranguru",
+        "Index": 765
+    },
+    {
+        "Types": [
+            "Fighting"
+        ],
+        "SpeciesRating": 10,
+        "Name": "Passimian",
+        "Index": 766
+    },
+    {
+        "Types": [
+            "Bug",
+            "Water"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Wimpod",
+        "Index": 767
+    },
+    {
+        "Types": [
+            "Bug",
+            "Water"
+        ],
+        "SpeciesRating": 9,
+        "Name": "Golisopod",
+        "Index": 768
+    },
+    {
+        "Types": [
+            "Ghost",
+            "Ground"
+        ],
+        "SpeciesRating": 1,
+        "Name": "Sandygast",
+        "Index": 769
+    },
+    {
+        "Types": [
+            "Ghost",
+            "Ground"
+        ],
+        "SpeciesRating": 11,
+        "Name": "Palossand",
+        "Index": 770
+    },
+    {
+        "Types": [
+            "Water"
+        ],
+        "SpeciesRating": 6,
+        "Name": "Pyukumuku",
+        "Index": 771
+    },
+    {
+        "Types": [
+            "Normal"
+        ],
+        "SpeciesRating": 13,
+        "Name": "Type: Null",
+        "Index": 772
+    },
+    {
+        "Types": [
+            "Normal"
+        ],
+        "SpeciesRating": 14,
+        "Name": "Silvally",
+        "Index": 773
+    },
+    {
+        "Types": [
+            "Rock",
+            "Flying"
+        ],
+        "SpeciesRating": 4,
+        "Name": "Minior",
+        "Index": 774
+    },
+    {
+        "Types": [
+            "Normal"
+        ],
+        "SpeciesRating": 7,
+        "Name": "Komala",
+        "Index": 775
+    },
+    {
+        "Types": [
+            "Fire",
+            "Dragon"
+        ],
+        "SpeciesRating": 12,
+        "Name": "Turtonator",
+        "Index": 776
+    },
+    {
+        "Types": [
+            "Electric",
+            "Steel"
+        ],
+        "SpeciesRating": 3,
+        "Name": "Togedemaru",
+        "Index": 777
+    },
+    {
+        "Types": [
+            "Ghost",
+            "Fairy"
+        ],
+        "SpeciesRating": 8,
+        "Name": "Mimikyu",
+        "Index": 778
+    },
+    {
+        "Types": [
+            "Water",
+            "Psychic"
+        ],
+        "SpeciesRating": 7,
+        "Name": "Bruxish",
+        "Index": 779
+    },
+    {
+        "Types": [
+            "Normal",
+            "Dragon"
+        ],
+        "SpeciesRating": 9,
+        "Name": "Drampa",
+        "Index": 780
+    },
+    {
+        "Types": [
+            "Ghost",
+            "Grass"
+        ],
+        "SpeciesRating": 11,
+        "Name": "Dhelmise",
+        "Index": 781
+    },
+    {
+        "Types": [
+            "Dragon"
+        ],
+        "SpeciesRating": 1,
+        "Name": "Jangmo-o",
+        "Index": 782
+    },
+    {
+        "Types": [
+            "Dragon",
+            "Fighting"
+        ],
+        "SpeciesRating": 7,
+        "Name": "Hakamo-o",
+        "Index": 783
+    },
+    {
+        "Types": [
+            "Dragon",
+            "Fighting"
+        ],
+        "SpeciesRating": 14,
+        "Name": "Kommo-o",
+        "Index": 784
+    },
+    {
+        "Types": [
+            "Electric",
+            "Fairy"
+        ],
+        "SpeciesRating": 15,
+        "Name": "Tapu Koko",
+        "Index": 785
+    },
+    {
+        "Types": [
+            "Psychic",
+            "Fairy"
+        ],
+        "SpeciesRating": 15,
+        "Name": "Tapu Lele",
+        "Index": 786
+    },
+    {
+        "Types": [
+            "Grass",
+            "Fairy"
+        ],
+        "SpeciesRating": 15,
+        "Name": "Tapu Bulu",
+        "Index": 787
+    },
+    {
+        "Types": [
+            "Water",
+            "Fairy"
+        ],
+        "SpeciesRating": 15,
+        "Name": "Tapu Fini",
+        "Index": 788
+    },
+    {
+        "Types": [
+            "Psychic"
+        ],
+        "SpeciesRating": 7,
+        "Name": "Cosmog",
+        "Index": 789
+    },
+    {
+        "Types": [
+            "Psychic"
+        ],
+        "SpeciesRating": 13,
+        "Name": "Cosmoem",
+        "Index": 790
+    },
+    {
+        "Types": [
+            "Psychic",
+            "Steel"
+        ],
+        "SpeciesRating": 15,
+        "Name": "Solgaleo",
+        "Index": 791
+    },
+    {
+        "Types": [
+            "Psychic",
+            "Ghost"
+        ],
+        "SpeciesRating": 15,
+        "Name": "Lunala",
+        "Index": 792
+    },
+    {
+        "Types": [
+            "Rock",
+            "Poison"
+        ],
+        "SpeciesRating": 15,
+        "Name": "Nihilego",
+        "Index": 793
+    },
+    {
+        "Types": [
+            "Bug",
+            "Fighting"
+        ],
+        "SpeciesRating": 15,
+        "Name": "Buzzwole",
+        "Index": 794
+    },
+    {
+        "Types": [
+            "Bug",
+            "Fighting"
+        ],
+        "SpeciesRating": 15,
+        "Name": "Pheromosa",
+        "Index": 795
+    },
+    {
+        "Types": [
+            "Electric"
+        ],
+        "SpeciesRating": 15,
+        "Name": "Xurkitree",
+        "Index": 796
+    },
+    {
+        "Types": [
+            "Steel",
+            "Flying"
+        ],
+        "SpeciesRating": 15,
+        "Name": "Celesteela",
+        "Index": 797
+    },
+    {
+        "Types": [
+            "Grass",
+            "Steel"
+        ],
+        "SpeciesRating": 15,
+        "Name": "Kartana",
+        "Index": 798
+    },
+    {
+        "Types": [
+            "Dark",
+            "Dragon"
+        ],
+        "SpeciesRating": 15,
+        "Name": "Guzzlord",
+        "Index": 799
+    },
+    {
+        "Types": [
+            "Psychic"
+        ],
+        "SpeciesRating": 15,
+        "Name": "Necrozma",
+        "Index": 800
+    },
+    {
+        "Types": [
+            "Steel",
+            "Fairy"
+        ],
+        "SpeciesRating": 15,
+        "Name": "Magearna",
+        "Index": 801
+    },
+    {
+        "Types": [
+            "Fighting",
+            "Ghost"
+        ],
+        "SpeciesRating": 15,
+        "Name": "Marshadow",
+        "Index": 802
+    },
+    {
+        "Types": [
+            "Poison"
+        ],
+        "SpeciesRating": 12,
+        "Name": "Poipole",
+        "Index": 803
+    },
+    {
+        "Types": [
+            "Poison",
+            "Dragon"
+        ],
+        "SpeciesRating": 15,
+        "Name": "Naganadel",
+        "Index": 804
+    },
+    {
+        "Types": [
+            "Rock",
+            "Steel"
+        ],
+        "SpeciesRating": 15,
+        "Name": "Stakataka",
+        "Index": 805
+    },
+    {
+        "Types": [
+            "Fire",
+            "Ghost"
+        ],
+        "SpeciesRating": 15,
+        "Name": "Blacephalon",
+        "Index": 806
+    },
+    {
+        "Types": [
+            "Electric"
+        ],
+        "SpeciesRating": 15,
+        "Name": "Zeraora",
+        "Index": 807
+    },
+    {
+        "Types": [
+            "Steel"
+        ],
+        "SpeciesRating": 5,
+        "Name": "Meltan",
+        "Index": 808
+    },
+    {
+        "Types": [
+            "Steel"
+        ],
+        "SpeciesRating": 14,
+        "Name": "Melmetal",
+        "Index": 809
+    },
+    {
+        "Types": [
+            "Dark",
+            "Normal"
+        ],
+        "SpeciesRating": 0.25,
+        "Name": "Alolan Rattata",
+        "Index": 10091
+    },
+    {
+        "Types": [
+            "Dark",
+            "Normal"
+        ],
+        "SpeciesRating": 5,
+        "Name": "Alolan Raticate",
+        "Index": 10092
+    },
+    {
+        "Types": [
+            "Electric",
+            "Psychic"
+        ],
+        "SpeciesRating": 7,
+        "Name": "Alolan Raichu",
+        "Index": 10100
+    },
+    {
+        "Types": [
+            "Ice",
+            "Steel"
+        ],
+        "SpeciesRating": 0.5,
+        "Name": "Alolan Sandshrew",
+        "Index": 10101
+    },
+    {
+        "Types": [
+            "Ice",
+            "Steel"
+        ],
+        "SpeciesRating": 7,
+        "Name": "Alolan Sandslash",
+        "Index": 10102
+    }
+]
