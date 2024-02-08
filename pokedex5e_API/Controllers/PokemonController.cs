@@ -13,7 +13,7 @@ public class PokemonController : ControllerBase
 {
  
     [HttpGet("summaries")]
-    public async Task<IEnumerable<PokemonSummaryDTO>> getSummariesAsync(CancellationToken cancellation)
+    public async Task<IEnumerable<PokemonSummaryDTO>> GetSummariesAsync(CancellationToken cancellation)
     {
         var pathToSummaries = ResourcePath.ForFile("Data/PokemonSummaries.json");
         await using var pokemonSummaryJsonStream = new FileStream(pathToSummaries, FileMode.Open, FileAccess.Read);
