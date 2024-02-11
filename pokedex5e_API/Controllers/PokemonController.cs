@@ -5,6 +5,8 @@ using System.Runtime.Serialization;
 using System.Text.Json;
 
 
+
+
 namespace pokedex5e_API.Controllers;
 
 [Route("api/[controller]")]
@@ -26,5 +28,20 @@ public class PokemonController : ControllerBase
         return pokemonSummaries
             .Where(x => x.Index < 10000)
             .OrderBy(x => x.Index);
+    }
+
+    [HttpGet("pokemons")]
+    public async Task<List<PokemonDTO>> GetPokemonsAsync(CancellationToken cancellation)
+    {
+        var pokemonJsonPath = ResourcePath.ForFile("Data/Pokemon.json");
+        await using var pokemonJsonStream = new FileStream(pokemonJsonPath, FileMode.Open, FileAccess.Read);
+        var pokemonDtos = await JsonSerializer.DeserializeAsync<List<PokemonDTO>>(pokemonJsonStream, JsonSerializerOptions.Default, cancellation);
+        Console.WriteLine("deserialized");
+        if (pokemonDtos == null)
+            throw new SerializationException("Pokemon could not be deserialized");
+
+    
+
+        return pokemonDtos;
     }
 }
