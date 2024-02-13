@@ -66,5 +66,5 @@ public class PokemonDTO
     public List<string> Skills { get; init; } = new();
 
     [JsonPropertyName("Evolve")]
-    public EvolveDTO? Evolve { get; init; }
+    public EvolveDTO? Evolve { get; set; }
 }

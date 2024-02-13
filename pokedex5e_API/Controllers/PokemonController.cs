@@ -33,15 +33,96 @@ public class PokemonController : ControllerBase
     [HttpGet("pokemons")]
     public async Task<List<PokemonDTO>> GetPokemonsAsync(CancellationToken cancellation)
     {
-        var pokemonJsonPath = ResourcePath.ForFile("Data/Pokemon.json");
+        var pokemonJsonPath = ResourcePath.ForFile("Data/Pokemons.json");
         await using var pokemonJsonStream = new FileStream(pokemonJsonPath, FileMode.Open, FileAccess.Read);
         var pokemonDtos = await JsonSerializer.DeserializeAsync<List<PokemonDTO>>(pokemonJsonStream, JsonSerializerOptions.Default, cancellation);
         Console.WriteLine("deserialized");
         if (pokemonDtos == null)
             throw new SerializationException("Pokemon could not be deserialized");
 
-    
+        var pokemonEvolved = new Dictionary<string, EvolveDTO?>();
+
+        //foreach (var item in pokemonDtos)
+        //{
+        //    pokemonEvolved.Add(item.Name, item.Evolve);
+        //}
+
+        //var found = 1;
+
+        //foreach (var item in pokemonEvolved)
+        //{
+        //    if (item.Value is null)
+        //    {
+        //        pokemonEvolved[item.Key] = new EvolveDTO
+        //        {
+        //            Into = new(),
+        //            From = new(),
+        //            CurrentStage = 0,
+        //            TotalStages = 0,
+        //            Points = 0,
+        //            Level = 0,
+        //            Move = "",
+
+        //        };
+        //    }
+        //}
+
+
+        //while (found > 0)
+        //{
+        //    found = 0;
+        //    foreach (var item in pokemonEvolved)
+        //    {
+        //        foreach (var item2 in pokemonEvolved)
+        //        {                    
+        //            foreach (var name in item2.Value!.Into)
+        //            {
+        //                Console.WriteLine(name);
+        //                if (item.Key == name && !item.Value!.From.Contains(item2.Key))
+        //                {
+        //                    item.Value!.From.Add(item2.Key);
+        //                    item.Value.CurrentStage = (short)(item2.Value!.CurrentStage + 1);
+        //                    item.Value.TotalStages = (short)(item2.Value!.TotalStages);
+        //                    found++;
+        //                }
+        //            }
+        //            foreach (var name in item2.Value.From )
+        //            {
+        //                if (item.Key == name && !item.Value!.Into.Contains(item2.Key))
+        //                {
+        //                    Console.WriteLine("HIT");
+        //                    item.Value!.Into.Add(item2.Key);                            
+        //                    found++;
+        //                }
+        //            }
+
+        //        }
+        //    }            
+
+
+        //}
+
+        //foreach(var item in pokemonEvolved)
+        //{
+        //    foreach(var item2 in pokemonDtos)
+        //    {
+        //        if(item.Key == item2.Name)
+        //        {
+        //            item2.Evolve = item.Value;
+        //        }
+        //    }
+        //}
+
+
+
+
+        //string fileName = "Pokemons.json";
+        //await using FileStream createStream = System.IO.File.Create(fileName);
+        //await JsonSerializer.SerializeAsync(createStream, pokemonDtos);
+
+
 
         return pokemonDtos;
     }
 }
+
