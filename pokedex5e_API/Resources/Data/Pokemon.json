@@ -46382,7 +46382,19 @@
     "Hit Dice": 10,
     "MIN LVL FD": 5,
     "Moves": {
-      "Level": {},
+      "Level": {
+        "10": [ "Double Team", "Spark", "Discharge", "Nuzzle" ],
+        "14": [ "Thunderbolt", "Sweet Kiss", "Slam", "Agility" ],
+        "18": [ "Thunder", "Light Screen" ],
+        "6": [
+          "Charm",
+          "Nasty Plot",
+          "Psychic",
+          "Electro Ball",
+          "Thunder Wave",
+          "Feint"
+        ]
+      },
       "Starting Moves": [
         "Quick Attack",
         "Tail Whip",
